@@ -1,0 +1,1114 @@
+tDept,tSid,institution_name,tFname,tMiddlename,tLname,tid,tNumRatings,rating_class,contentType,categoryType,overall_rating
+Medicine,186,Case Western Reserve University,Derek,,Abbott,1626633,1,good,TEACHER,PROFESSOR,5.0
+Biology,186,Case Western Reserve University,Karen,,Abbott,2192396,3,good,TEACHER,PROFESSOR,4.7
+Mechanical Engineering,186,Case Western Reserve University,Alexis,,Abramson,813093,14,good,TEACHER,PROFESSOR,4.3
+History,186,Case Western Reserve University,Amy,,Absher,1550728,18,good,TEACHER,PROFESSOR,4.8
+Chemistry,186,Case Western Reserve University,Kenneth,,Adair,2038178,10,good,TEACHER,PROFESSOR,3.8
+Art History,186,Case Western Reserve University,Henry,,Adams,289267,21,average,TEACHER,PROFESSOR,3.1
+Mechanical Engineering,186,Case Western Reserve University,Maurice,,Adams,1099605,5,poor,TEACHER,PROFESSOR,1.1
+English,186,Case Western Reserve University,Wells,,Addington,1456002,5,good,TEACHER,PROFESSOR,4.4
+Classics,186,Case Western Reserve University,Evelyn,,Adkins,2477888,3,good,TEACHER,PROFESSOR,5.0
+Law,186,Case Western Reserve University,Jonathan,,Adler,351553,21,average,TEACHER,PROFESSOR,2.6
+Macromolecular Science  Eng,186,Case Western Reserve University,Rigoberto,,Advincula,2230565,2,poor,TEACHER,PROFESSOR,2.0
+Management,186,Case Western Reserve University,James,,Afarin,861042,1,poor,TEACHER,PROFESSOR,1.0
+Art Education,186,Case Western Reserve University,Alexander,,Aitken,22924,14,good,TEACHER,PROFESSOR,4.2
+Biomedical Engineering,186,Case Western Reserve University,Abidemi,,Ajiboye,1657478,9,good,TEACHER,PROFESSOR,5.0
+Law,186,Case Western Reserve University,Ifeoma,,Ajunwa,1826960,4,good,TEACHER,PROFESSOR,4.8
+Physics,186,Case Western Reserve University,Daniel,,Akerib,291293,9,good,TEACHER,PROFESSOR,3.7
+Chemical Engineering,186,Case Western Reserve University,Rohan,,Akolkar,1865220,6,good,TEACHER,PROFESSOR,3.5
+Theatre & Dance,186,Case Western Reserve University,Catherine,,Albers,1100545,7,average,TEACHER,PROFESSOR,3.1
+Statistics,186,Case Western Reserve University,Jeffrey,,Albert,2480893,0,zero,TEACHER,PROFESSOR,N/A
+Mechanical Engineering,186,Case Western Reserve University,Iwan,,Alexander,25204,21,average,TEACHER,PROFESSOR,3.0
+Computer Science,186,Case Western Reserve University,Mark,,Allman,2256935,3,good,TEACHER,PROFESSOR,5.0
+Anthropology,186,Case Western Reserve University,Katia,,Almeida,626486,39,good,TEACHER,PROFESSOR,4.6
+Nutrition,186,Case Western Reserve University,Rima,,Alnimr,1417772,0,zero,TEACHER,PROFESSOR,N/A
+Biomedical Engineering,186,Case Western Reserve University,Eben,,Alsberg,887148,9,good,TEACHER,PROFESSOR,4.7
+Modern Languages,186,Case Western Reserve University,Hiroko,,Amick,1409669,6,good,TEACHER,PROFESSOR,5.0
+Not Specified,186,Case Western Reserve University,L. Felipe,,Amunategui,1629759,0,zero,TEACHER,PROFESSOR,N/A
+Chemistry,186,Case Western Reserve University,Alfred,,Anderson,1716666,13,poor,TEACHER,PROFESSOR,2.0
+Anthropology,186,Case Western Reserve University,Eileen,,Anderson-Fye,1025122,14,good,TEACHER,PROFESSOR,4.7
+Sociology,186,Case Western Reserve University,Tanetta,,Andersson,1690740,1,good,TEACHER,PROFESSOR,5.0
+Nursing,186,Case Western Reserve University,Claire,,Andrews,1409632,3,average,TEACHER,PROFESSOR,2.5
+Chemical Engineering,186,Case Western Reserve University,John,,Angus,948460,0,zero,TEACHER,PROFESSOR,N/A
+Social Science,186,Case Western Reserve University,Elizabeth,,Anthony,2258240,1,good,TEACHER,PROFESSOR,5.0
+Classics,186,Case Western Reserve University,Ricardo,,Apostol,2069101,5,good,TEACHER,PROFESSOR,4.3
+Nursing,186,Case Western Reserve University,Angela,,Arumpanayil,2358091,0,zero,TEACHER,PROFESSOR,N/A
+Chemistry,186,Case Western Reserve University,Rameen,,Aryana,689213,27,average,TEACHER,PROFESSOR,2.8
+English,186,Case Western Reserve University,Mary,,Assad,2013052,7,good,TEACHER,PROFESSOR,5.0
+Physics,186,Case Western Reserve University,Tim,,Atherton,1351300,2,good,TEACHER,PROFESSOR,4.8
+Biology,186,Case Western Reserve University,Radhika,,Atit,1146748,9,average,TEACHER,PROFESSOR,2.9
+Mathematics,186,Case Western Reserve University,Thomas,,Atta-Fosu,2084742,1,average,TEACHER,PROFESSOR,2.5
+Law,186,Case Western Reserve University,Arthur,,Austin,318419,22,average,TEACHER,PROFESSOR,3.1
+Computer Science,186,Case Western Reserve University,Erman,,Ayday,2354474,25,average,TEACHER,PROFESSOR,3.0
+Religion,186,Case Western Reserve University,Alice,,Bach,43771,21,good,TEACHER,PROFESSOR,4.3
+Mechanical Engineering,186,Case Western Reserve University,Richard,,Bachmann,1998769,3,average,TEACHER,PROFESSOR,2.5
+Engineering,186,Case Western Reserve University,Richard,,Bachmann,1799931,21,poor,TEACHER,PROFESSOR,2.5
+Biology,186,Case Western Reserve University,James,,Bader,16802,45,poor,TEACHER,PROFESSOR,2.3
+Biology,186,Case Western Reserve University,Sarah,,Bagby,2278037,39,poor,TEACHER,PROFESSOR,1.7
+Mathematics,186,Case Western Reserve University,Daniel,,Balague,2428975,3,good,TEACHER,PROFESSOR,4.0
+Finance,186,Case Western Reserve University,Lakshmi,,Balasubramanyan,2356540,5,average,TEACHER,PROFESSOR,2.6
+Anthropology,186,Case Western Reserve University,Adriann,,Balok,1061474,5,average,TEACHER,PROFESSOR,2.8
+Mathematics,186,Case Western Reserve University,Pradipta,,Bandyopadhyay,1203895,4,poor,TEACHER,PROFESSOR,2.1
+Mathematics,186,Case Western Reserve University,Alethea,,Barbaro,1766322,15,average,TEACHER,PROFESSOR,2.6
+Computer Science,186,Case Western Reserve University,Nick,,Barendt,2420821,2,good,TEACHER,PROFESSOR,5.0
+Chemistry,186,Case Western Reserve University,Mary,,Barkley,776548,3,poor,TEACHER,PROFESSOR,1.7
+Nutrition,186,Case Western Reserve University,Hope,,Barkoukis,1711636,1,average,TEACHER,PROFESSOR,2.5
+Theatre  Dance,186,Case Western Reserve University,Hannah,,Barna,2073479,3,good,TEACHER,PROFESSOR,5.0
+Mechanical Engineering,186,Case Western Reserve University,Paul,,Barnhart,1888822,7,good,TEACHER,PROFESSOR,3.9
+Chemical Engineering,186,Case Western Reserve University,Harihara,,Baskaran,656434,6,good,TEACHER,PROFESSOR,4.0
+Music,186,Case Western Reserve University,Matthew,,Bassett,890082,0,zero,TEACHER,PROFESSOR,N/A
+English,186,Case Western Reserve University,Mark,,Bassett,1450086,1,poor,TEACHER,PROFESSOR,1.0
+Economics,186,Case Western Reserve University,Paul,,Bauer,1590033,2,good,TEACHER,PROFESSOR,4.8
+Computer Science,186,Case Western Reserve University,Mahdi,,Bayat,2454652,2,good,TEACHER,PROFESSOR,4.0
+Religion,186,Case Western Reserve University,Timothy,,Beal,144650,15,good,TEACHER,PROFESSOR,5.0
+Anthropology,186,Case Western Reserve University,Cynthia,,Beall,277335,24,average,TEACHER,PROFESSOR,2.5
+Medicine,186,Case Western Reserve University,Gurkan,,Bebek,1866226,3,poor,TEACHER,PROFESSOR,2.0
+Political Science,186,Case Western Reserve University,Karen,,Beckwith,963295,15,good,TEACHER,PROFESSOR,3.7
+Computer Science,186,Case Western Reserve University,Randall,,Beer,17580,30,good,TEACHER,PROFESSOR,4.6
+Sociology,186,Case Western Reserve University,Samuel,,Belkin,2348299,5,good,TEACHER,PROFESSOR,4.8
+Statistics,186,Case Western Reserve University,Alexandru,,Belu,1284782,3,good,TEACHER,PROFESSOR,4.3
+Biology,186,Case Western Reserve University,Rebecca,,Benard,1478962,63,good,TEACHER,PROFESSOR,4.0
+Biology,186,Case Western Reserve University,Michael,,Benard,1743044,23,average,TEACHER,PROFESSOR,3.3
+Art History,186,Case Western Reserve University,Erin,,Benay,1951526,3,good,TEACHER,PROFESSOR,4.7
+Philosophy,186,Case Western Reserve University,Jeremy,,Bendik-Keymer,1445979,12,average,TEACHER,PROFESSOR,2.9
+Music,186,Case Western Reserve University,Sophie,,Benn,2459239,1,good,TEACHER,PROFESSOR,4.0
+Music,186,Case Western Reserve University,Peter,,Bennett,779075,5,average,TEACHER,PROFESSOR,3.2
+Law,186,Case Western Reserve University,Michael,,Benza,1993631,1,good,TEACHER,PROFESSOR,4.5
+Physics,186,Case Western Reserve University,Jesse,,Berezovsky,2168134,19,poor,TEACHER,PROFESSOR,2.1
+Law,186,Case Western Reserve University,Jessica,,Berg,1589014,1,poor,TEACHER,PROFESSOR,1.0
+Modern Languages,186,Case Western Reserve University,Florin,,Berindeanu,489155,18,good,TEACHER,PROFESSOR,3.5
+History,186,Case Western Reserve University,Jim,,Bernard,1075413,18,good,TEACHER,PROFESSOR,4.3
+Mathematics,186,Case Western Reserve University,Florian,,Besau,2042209,10,average,TEACHER,PROFESSOR,3.0
+Economics,186,Case Western Reserve University,Eric,,Bettinger,126650,11,good,TEACHER,PROFESSOR,4.8
+Electrical Engineering,186,Case Western Reserve University,Swarup,,Bhunia,838307,16,good,TEACHER,PROFESSOR,3.8
+English,186,Case Western Reserve University,Lucy,,Biederman,2167226,5,good,TEACHER,PROFESSOR,4.2
+Organizational Behavior,186,Case Western Reserve University,Diana,,Bilimoria,2296964,0,zero,TEACHER,PROFESSOR,N/A
+English,186,Case Western Reserve University,Jessica,,Birch,2106103,0,zero,TEACHER,PROFESSOR,N/A
+Sociology,186,Case Western Reserve University,Timothy,,Black,1891662,9,good,TEACHER,PROFESSOR,3.6
+MacRomolecular Science & Eng,186,Case Western Reserve University,John,,Blackwell,17590,55,average,TEACHER,PROFESSOR,3.3
+Physical Education,186,Case Western Reserve University,Freeman,,Blade,1105454,3,good,TEACHER,PROFESSOR,4.3
+Theatre amp Dance,186,Case Western Reserve University,Hannah,,Blake,2476448,1,good,TEACHER,PROFESSOR,5.0
+Accounting,186,Case Western Reserve University,Heidi,,Blakeway-Phillips,2283334,8,good,TEACHER,PROFESSOR,3.6
+Epidemiology,186,Case Western Reserve University,Ronald,,Blanton,2072129,2,average,TEACHER,PROFESSOR,2.5
+Accounting,186,Case Western Reserve University,Leonid,,Blazey,201382,22,average,TEACHER,PROFESSOR,3.2
+History,186,Case Western Reserve University,Lyz,,Bly,1193814,5,good,TEACHER,PROFESSOR,4.8
+Theatre  Dance,186,Case Western Reserve University,Christopher,,Bohan,2272211,3,good,TEACHER,PROFESSOR,4.7
+Social Science,186,Case Western Reserve University,Craig,,Boitel,137448,2,good,TEACHER,PROFESSOR,5.0
+Organizational Behavior,186,Case Western Reserve University,Rick,,Boland,982200,10,average,TEACHER,PROFESSOR,3.2
+Not Specified,186,Case Western Reserve University,Heather,,Boll,1661766,1,good,TEACHER,PROFESSOR,5.0
+Communication Sciences,186,Case Western Reserve University,Patrizia,,Bonaventura,839874,7,average,TEACHER,PROFESSOR,2.8
+Music,186,Case Western Reserve University,Randy,,Border,890080,1,good,TEACHER,PROFESSOR,5.0
+Religion,186,Case Western Reserve University,Joy,,Bostic,1367394,5,good,TEACHER,PROFESSOR,3.5
+Finance,186,Case Western Reserve University,Christa,,Bouwman,1122647,3,average,TEACHER,PROFESSOR,3.2
+Art,186,Case Western Reserve University,Martin,,Boyle,970689,0,zero,TEACHER,PROFESSOR,N/A
+Psychology,186,Case Western Reserve University,Abby,,Braden,1445196,0,zero,TEACHER,PROFESSOR,N/A
+Engineering,186,Case Western Reserve University,Jason,,Bradshaw,2000761,16,good,TEACHER,PROFESSOR,4.5
+Operations Management,186,Case Western Reserve University,Stephen,,Brady,2293881,7,average,TEACHER,PROFESSOR,2.7
+Accounting,186,Case Western Reserve University,Karen,,Braun,1007169,28,good,TEACHER,PROFESSOR,4.4
+Epidemiology,186,Case Western Reserve University,Farren,,Briggs,2331435,2,good,TEACHER,PROFESSOR,5.0
+Music,186,Case Western Reserve University,Francesca,,Brittan,2063045,3,good,TEACHER,PROFESSOR,5.0
+Economics,186,Case Western Reserve University,Sheldon,,Brodsky,49258,45,good,TEACHER,PROFESSOR,3.8
+History,186,Case Western Reserve University,John,,Broich,1094837,24,good,TEACHER,PROFESSOR,3.8
+Physics,186,Case Western Reserve University,Robert,,Brown,16711,36,good,TEACHER,PROFESSOR,4.6
+English,186,Case Western Reserve University,Yvonne,,Bruce,2078324,1,good,TEACHER,PROFESSOR,4.0
+Mathematics,186,Case Western Reserve University,Ben,,Brucker,2251706,0,zero,TEACHER,PROFESSOR,N/A
+Mathematics,186,Case Western Reserve University,Paul,,Bruno,1917497,5,good,TEACHER,PROFESSOR,4.8
+Statistics,186,Case Western Reserve University,Jenny,,Brynjarsdottir,1942441,6,good,TEACHER,PROFESSOR,3.6
+Accounting,186,Case Western Reserve University,Tony,,Bucaro,2129170,7,good,TEACHER,PROFESSOR,3.7
+Political Science,186,Case Western Reserve University,Justin,,Buchler,781668,28,average,TEACHER,PROFESSOR,3.4
+Electrical Engineering,186,Case Western Reserve University,Marc,,Buchner,17228,56,average,TEACHER,PROFESSOR,2.6
+Psychology,186,Case Western Reserve University,Jane,,Buder Shapiro,17848,67,good,TEACHER,PROFESSOR,3.8
+Chemistry,186,Case Western Reserve University,Clemens,,Burda,1672701,4,good,TEACHER,PROFESSOR,4.8
+Biology,186,Case Western Reserve University,Susan,,Burden-Gulley,1973384,4,good,TEACHER,PROFESSOR,4.5
+Chemistry,186,Case Western Reserve University,James,,Burgess,274726,25,average,TEACHER,PROFESSOR,3.0
+English,186,Case Western Reserve University,Barbara,,Burgess-Van Aken,1211068,19,good,TEACHER,PROFESSOR,4.2
+English,186,Case Western Reserve University,Matthew,,Burkhart,2234458,4,good,TEACHER,PROFESSOR,3.5
+Communication Sciences,186,Case Western Reserve University,Patricia,,Burrant,1854932,1,good,TEACHER,PROFESSOR,4.5
+Classics,186,Case Western Reserve University,Charles,,Burroughs,1496857,2,average,TEACHER,PROFESSOR,2.8
+English,186,Case Western Reserve University,Nicole,,Burt,2409635,4,average,TEACHER,PROFESSOR,2.5
+History,186,Case Western Reserve University,Marcia,,Butler,1057200,5,poor,TEACHER,PROFESSOR,2.0
+Mathematics,186,Case Western Reserve University,Christopher,,Butler,2347018,0,zero,TEACHER,PROFESSOR,N/A
+Psychology,186,Case Western Reserve University,Jennifer,,Butler,292917,85,average,TEACHER,PROFESSOR,3.0
+Mathematics,186,Case Western Reserve University,Chris,,Butler,16705,263,good,TEACHER,PROFESSOR,4.5
+Physics,186,Case Western Reserve University,Gavin A,,Buxton,1062057,6,average,TEACHER,PROFESSOR,3.1
+English,186,Case Western Reserve University,Gabrielle,,Bychowski,2284859,4,good,TEACHER,PROFESSOR,4.3
+English,186,Case Western Reserve University,Cara,,Byrne,2218670,7,good,TEACHER,PROFESSOR,4.3
+General Education,186,Case Western Reserve University,Stephen,,Cagan,1563371,2,good,TEACHER,PROFESSOR,4.2
+Social Work,186,Case Western Reserve University,Jamie,,Cage,1952747,0,zero,TEACHER,PROFESSOR,N/A
+Mathematics,186,Case Western Reserve University,Umut,,Caglar,1949051,7,good,TEACHER,PROFESSOR,4.0
+Mathematics,186,Case Western Reserve University,Umut,,Calgar,1938465,3,average,TEACHER,PROFESSOR,3.2
+English,186,Case Western Reserve University,Robert,,Calton,2166752,22,good,TEACHER,PROFESSOR,4.7
+Mathematics,186,Case Western Reserve University,Daniela,,Calvetti,1834920,5,good,TEACHER,PROFESSOR,4.0
+Administration,186,Case Western Reserve University,Lisa,,Camp,2517369,0,zero,TEACHER,PROFESSOR,N/A
+Physics,186,Case Western Reserve University,ED,,Caner,1849058,5,average,TEACHER,PROFESSOR,3.2
+Modern Languages,186,Case Western Reserve University,Christine,,Cano,49255,10,good,TEACHER,PROFESSOR,3.5
+Management,186,Case Western Reserve University,Kevin,,Carduff,704970,18,average,TEACHER,PROFESSOR,3.2
+Economics,186,Case Western Reserve University,Mariana,,Carerra,1714032,7,average,TEACHER,PROFESSOR,3.4
+Biochemistry,186,Case Western Reserve University,Paul,,Carey,951071,7,average,TEACHER,PROFESSOR,3.3
+Accounting,186,Case Western Reserve University,Melissa,,Carlisle,2121404,20,good,TEACHER,PROFESSOR,3.6
+Economics,186,Case Western Reserve University,Bo,,Carlsson,814072,2,average,TEACHER,PROFESSOR,3.2
+Law,186,Case Western Reserve University,David,,Carney,318418,15,good,TEACHER,PROFESSOR,3.6
+Economics,186,Case Western Reserve University,Mariana,,Carrera,2142384,2,good,TEACHER,PROFESSOR,4.0
+Materials Science,186,Case Western Reserve University,Jennifer,L.W.,Carter,1851412,4,average,TEACHER,PROFESSOR,2.9
+Organizational Behavior,186,Case Western Reserve University,Susan,,Case,356273,15,average,TEACHER,PROFESSOR,3.0
+Modern Languages,186,Case Western Reserve University,Haydee,E,Castillo,1863751,3,poor,TEACHER,PROFESSOR,2.0
+Modern Languages,186,Case Western Reserve University,Denise,,Caterinacci,51989,10,average,TEACHER,PROFESSOR,3.4
+Nutrition,186,Case Western Reserve University,David,,Cavallo,1964637,2,good,TEACHER,PROFESSOR,3.5
+Electrical Engineering,186,Case Western Reserve University,Murat Cenk,,Cavusoglu,801648,13,average,TEACHER,PROFESSOR,2.8
+Materials Science,186,Case Western Reserve University,James,,Cawley,25177,28,average,TEACHER,PROFESSOR,3.3
+Medicine,186,Case Western Reserve University,Ronald,,Cechner,415645,26,good,TEACHER,PROFESSOR,4.0
+Social Science,186,Case Western Reserve University,Gabriella,,Celeste,2178935,5,average,TEACHER,PROFESSOR,2.8
+Statistics,186,Case Western Reserve University,Minwoo,,Chae,2361887,7,poor,TEACHER,PROFESSOR,2.1
+Mathematics,186,Case Western Reserve University,Minwoo,,Chae,2362135,0,zero,TEACHER,PROFESSOR,N/A
+Modern Languages,186,Case Western Reserve University,Man-Lih,,Chai,2225137,2,average,TEACHER,PROFESSOR,3.0
+Biology,186,Case Western Reserve University,Leena,,Chakravarty,2033357,3,average,TEACHER,PROFESSOR,3.1
+Electrical Engineering,186,Case Western Reserve University,Vira,,Chankong,30543,39,poor,TEACHER,PROFESSOR,2.3
+Music,186,Case Western Reserve University,Eric,,Charnofsky,32286,12,good,TEACHER,PROFESSOR,4.7
+Social Science,186,Case Western Reserve University,Pranab,,Chatterjee,137465,0,zero,TEACHER,PROFESSOR,N/A
+Biochemistry,186,Case Western Reserve University,Calvin,,Chi,1749628,8,good,TEACHER,PROFESSOR,3.9
+English,186,Case Western Reserve University,Michael,,Chiappini,2006909,1,good,TEACHER,PROFESSOR,5.0
+Biology,186,Case Western Reserve University,Hillel,,Chiel,110368,16,good,TEACHER,PROFESSOR,4.2
+English,186,Case Western Reserve University,Eric,,Chilton,1576147,13,good,TEACHER,PROFESSOR,3.9
+Mathematics,186,Case Western Reserve University,Sandra,,Chincholkar,2474838,0,zero,TEACHER,PROFESSOR,N/A
+Law,186,Case Western Reserve University,Laura,,Chisolm,402186,4,average,TEACHER,PROFESSOR,2.6
+Physics,186,Case Western Reserve University,Gary,,Chottiner,191996,38,average,TEACHER,PROFESSOR,2.7
+Physics,186,Case Western Reserve University,Cory,,Christenson,1887296,16,good,TEACHER,PROFESSOR,4.4
+Communication Sciences,186,Case Western Reserve University,Angela,,Ciccia,854981,3,good,TEACHER,PROFESSOR,4.7
+Music,186,Case Western Reserve University,Gary,,Ciepluch,88775,18,average,TEACHER,PROFESSOR,3.3
+English,186,Case Western Reserve University,Katherine,,Clark,1066634,3,good,TEACHER,PROFESSOR,3.5
+Management,186,Case Western Reserve University,Barbara,,Clemenson,835850,34,good,TEACHER,PROFESSOR,4.2
+Economics,186,Case Western Reserve University,David,,Clingingsmith,1646907,7,good,TEACHER,PROFESSOR,3.5
+Religion,186,Case Western Reserve University,Brian,,Clites,2483662,1,good,TEACHER,PROFESSOR,5.0
+English,186,Case Western Reserve University,Michael,,Clune,1922512,3,good,TEACHER,PROFESSOR,4.7
+English,186,Case Western Reserve University,Ana,,Codita,2128877,6,average,TEACHER,PROFESSOR,2.9
+Organizational Behavior,186,Case Western Reserve University,Corinne,,Coen,1419449,8,good,TEACHER,PROFESSOR,4.2
+Law,186,Case Western Reserve University,Ronald,,Coffey,184221,14,poor,TEACHER,PROFESSOR,2.5
+History,186,Case Western Reserve University,Daniel,,Cohen,967129,3,average,TEACHER,PROFESSOR,3.3
+Biochemistry,186,Case Western Reserve University,Jeff,,Coller,1049582,0,zero,TEACHER,PROFESSOR,N/A
+Geology,186,Case Western Reserve University,George,,Collins,1308214,1,average,TEACHER,PROFESSOR,3.0
+Mechanical Engineering,186,Case Western Reserve University,Sunniva,,Collins,1995398,5,good,TEACHER,PROFESSOR,3.8
+Information Systems,186,Case Western Reserve University,Fred,,Collopy,88362,6,good,TEACHER,PROFESSOR,4.8
+Biology,186,Case Western Reserve University,Constantino,,Colombo,1161373,0,zero,TEACHER,PROFESSOR,N/A
+Music,186,Case Western Reserve University,Luke,,Conklin,2254509,1,average,TEACHER,PROFESSOR,3.0
+English,186,Case Western Reserve University,Bryan,,Conn,1495330,1,good,TEACHER,PROFESSOR,5.0
+Computer Science,186,Case Western Reserve University,Harold,,Connamacher,1658282,82,good,TEACHER,PROFESSOR,4.8
+Psychology,186,Case Western Reserve University,Arin,,Connell,1450628,15,average,TEACHER,PROFESSOR,3.5
+Accounting,186,Case Western Reserve University,Dennis,,Conrad,2305625,6,average,TEACHER,PROFESSOR,2.8
+Mathematics,186,Case Western Reserve University,Terri,,Contenza,1056661,75,average,TEACHER,PROFESSOR,3.3
+Music,186,Case Western Reserve University,Alexander,,Cooke,2456326,1,good,TEACHER,PROFESSOR,4.0
+Psychology,186,Case Western Reserve University,Andrew,,Cooper,1916109,10,good,TEACHER,PROFESSOR,4.5
+Psychology,186,Case Western Reserve University,Rachael,,Cooper,1933936,0,zero,TEACHER,PROFESSOR,N/A
+Cognitive Science,186,Case Western Reserve University,Kensy,,Cooperrider,1650610,4,good,TEACHER,PROFESSOR,4.8
+Modern Languages,186,Case Western Reserve University,Marta,Gabriela,Copertari,2016765,3,good,TEACHER,PROFESSOR,4.5
+Physics,186,Case Western Reserve University,Craig,,Copi,103616,44,average,TEACHER,PROFESSOR,3.1
+Communication Sciences,186,Case Western Reserve University,Alyssa,,Coreno,2278302,1,good,TEACHER,PROFESSOR,5.0
+Writing,186,Case Western Reserve University,Kaysha,,Corinealdi,2130510,0,zero,TEACHER,PROFESSOR,N/A
+Nutrition,186,Case Western Reserve University,Shannon,,Corlett,2018535,1,good,TEACHER,PROFESSOR,4.0
+Marketing,186,Case Western Reserve University,Stanton,,Cort,939775,7,poor,TEACHER,PROFESSOR,2.1
+Physics,186,Case Western Reserve University,Corbin,,Covault,82228,112,good,TEACHER,PROFESSOR,4.2
+Music,186,Case Western Reserve University,Georgia,,Cowart,1409627,2,good,TEACHER,PROFESSOR,4.5
+Music,186,Case Western Reserve University,Paul,,Cox,1431751,1,good,TEACHER,PROFESSOR,3.5
+Biomedical Engineering,186,Case Western Reserve University,Patrick,,Crago,1574104,2,average,TEACHER,PROFESSOR,3.2
+Chemistry,186,Case Western Reserve University,Carlos,,Crespo,1709450,2,average,TEACHER,PROFESSOR,3.0
+Biology,186,Case Western Reserve University,Darin,,Croft,1836102,3,good,TEACHER,PROFESSOR,5.0
+Biochemistry,186,Case Western Reserve University,Colleen,,Croniger,1928420,8,average,TEACHER,PROFESSOR,3.1
+Sociology,186,Case Western Reserve University,Cory,,Cronin,2016931,0,zero,TEACHER,PROFESSOR,N/A
+Finance,186,Case Western Reserve University,Randy,,Cross,1179411,0,zero,TEACHER,PROFESSOR,N/A
+Biology,186,Case Western Reserve University,Christopher,,Cullis,821053,6,average,TEACHER,PROFESSOR,2.8
+Art History,186,Case Western Reserve University,Michael,,Cunningham,628601,5,poor,TEACHER,PROFESSOR,1.9
+Chemistry,186,Case Western Reserve University,Krista,,Cunningham,2331439,15,good,TEACHER,PROFESSOR,4.0
+Law,186,Case Western Reserve University,Joseph,,Custer,2428673,1,poor,TEACHER,PROFESSOR,1.0
+Modern Languages,186,Case Western Reserve University,Margaretmary,,Daley,51986,11,good,TEACHER,PROFESSOR,4.1
+Mechanical Engineering,186,Case Western Reserve University,Kathryn,,Daltorio,2359766,6,poor,TEACHER,PROFESSOR,2.0
+Nursing,186,Case Western Reserve University,Cynthia,,Danko,2344288,2,poor,TEACHER,PROFESSOR,1.0
+Sociology,186,Case Western Reserve University,Dale,,Dannefer,927544,4,average,TEACHER,PROFESSOR,3.0
+Modern Languages,186,Case Western Reserve University,Yoram,,Daon,1710274,1,average,TEACHER,PROFESSOR,2.5
+Biology,186,Case Western Reserve University,Lopamudra,,Das,1815739,2,average,TEACHER,PROFESSOR,2.8
+Education,186,Case Western Reserve University,Denise,K,Davis,1785477,4,good,TEACHER,PROFESSOR,5.0
+Materials Science,186,Case Western Reserve University,Mark,,De Guire,599287,54,average,TEACHER,PROFESSOR,2.8
+Cognitive Science,186,Case Western Reserve University,William,,Deal,64706,23,good,TEACHER,PROFESSOR,4.6
+Statistics,186,Case Western Reserve University,Sara,,Debanne,2323292,0,zero,TEACHER,PROFESSOR,N/A
+Nursing,186,Case Western Reserve University,Michael,J,Decker,2145133,0,zero,TEACHER,PROFESSOR,N/A
+History,186,Case Western Reserve University,Andreau,,Degiorgi,1057211,2,good,TEACHER,PROFESSOR,4.5
+Materials Science,186,Case Western Reserve University,Mark,,Deguire,1811789,13,average,TEACHER,PROFESSOR,3.3
+Nursing,186,Case Western Reserve University,Mary,,Dehaan,1640460,2,good,TEACHER,PROFESSOR,5.0
+Biochemistry,186,Case Western Reserve University,Pieter,,Dehaseth,1224601,2,good,TEACHER,PROFESSOR,4.0
+Sociology,186,Case Western Reserve University,Gary,,Deimling,753179,8,average,TEACHER,PROFESSOR,3.4
+Physics,186,Case Western Reserve University,Robert,,Deissler,1347413,14,poor,TEACHER,PROFESSOR,1.9
+Physical Education,186,Case Western Reserve University,Robert,,Del Rosa,473837,5,good,TEACHER,PROFESSOR,4.7
+English,186,Case Western Reserve University,Joseph,,DeLong,2224801,2,good,TEACHER,PROFESSOR,4.5
+Psychology,186,Case Western Reserve University,Heath,,Demaree,274723,46,good,TEACHER,PROFESSOR,4.6
+English,186,Case Western Reserve University,Gusztav,,Demeter,2127988,14,good,TEACHER,PROFESSOR,4.4
+Finance,186,Case Western Reserve University,Yuliya,,Demyanyk,2193697,1,poor,TEACHER,PROFESSOR,1.0
+Biomedical Engineering,186,Case Western Reserve University,Cheri,,Deng,838637,2,poor,TEACHER,PROFESSOR,1.2
+Statistics,186,Case Western Reserve University,Manfred,,Denker,1065526,1,poor,TEACHER,PROFESSOR,1.0
+Law,186,Case Western Reserve University,George,,Dent,1098702,5,good,TEACHER,PROFESSOR,3.6
+Engineering,186,Case Western Reserve University,Philip,,Derbesy,2363718,1,good,TEACHER,PROFESSOR,5.0
+Psychology,186,Case Western Reserve University,Douglas,,Detterman,25479,9,good,TEACHER,PROFESSOR,3.9
+Biology,186,Case Western Reserve University,Sarah,,Diamond,2352620,0,zero,TEACHER,PROFESSOR,N/A
+Psychology,186,Case Western Reserve University,Marcus,,Dickson,1203826,0,zero,TEACHER,PROFESSOR,N/A
+English,186,Case Western Reserve University,Terry,,Dickson,1204480,0,zero,TEACHER,PROFESSOR,N/A
+Classics,186,Case Western Reserve University,Kevin,,Dicus,1811909,4,good,TEACHER,PROFESSOR,4.8
+English,186,Case Western Reserve University,Scott,,Dill,2132824,9,good,TEACHER,PROFESSOR,5.0
+Biology,186,Case Western Reserve University,Nancy,,Dilulio,1626731,40,average,TEACHER,PROFESSOR,2.7
+Psychology,186,Case Western Reserve University,Anastasia,,Dimitropoulos,913960,10,good,TEACHER,PROFESSOR,3.7
+Nursing,186,Case Western Reserve University,Erin,,Discenza,1969094,5,good,TEACHER,PROFESSOR,3.8
+Medicine,186,Case Western Reserve University,Clark,,Distelhorst,530723,0,zero,TEACHER,PROFESSOR,N/A
+Mathematics,186,Case Western Reserve University,Julia,,Dobrosotskaya,1863967,14,good,TEACHER,PROFESSOR,4.8
+Modern Languages,186,Case Western Reserve University,Gilbert,,Doho,572408,14,average,TEACHER,PROFESSOR,3.3
+Mathematics,186,Case Western Reserve University,Pierre,,Dolcine,1161677,0,zero,TEACHER,PROFESSOR,N/A
+Law,186,Case Western Reserve University,William,,Doll,2059995,4,good,TEACHER,PROFESSOR,3.8
+English,186,Case Western Reserve University,Susan,,Dominguez,2480616,1,poor,TEACHER,PROFESSOR,1.0
+Engineering,186,Case Western Reserve University,James,,Drake,27971,22,good,TEACHER,PROFESSOR,4.5
+Physics,186,Case Western Reserve University,Diana,,Driscoll,60398,47,good,TEACHER,PROFESSOR,3.6
+Biomedical Engineering,186,Case Western Reserve University,Colin,K,Drummond,1792504,6,good,TEACHER,PROFESSOR,3.9
+Nursing,186,Case Western Reserve University,Colin,,Drummond,2002118,4,poor,TEACHER,PROFESSOR,2.4
+Biology,186,Case Western Reserve University,Richard,,Drushel,16819,28,good,TEACHER,PROFESSOR,4.3
+Psychology,186,Case Western Reserve University,Jeanne,,Duax,1272713,1,good,TEACHER,PROFESSOR,4.0
+Economics,186,Case Western Reserve University,Robin,,Dubin,17816,31,average,TEACHER,PROFESSOR,2.7
+Chemistry,186,Case Western Reserve University,Robert,,Dunbar,16795,15,poor,TEACHER,PROFESSOR,2.3
+Mathematics,186,Case Western Reserve University,John,,Duncan,1549372,5,average,TEACHER,PROFESSOR,3.3
+Biomedical Engineering,186,Case Western Reserve University,Dominique,,Durand,629668,4,good,TEACHER,PROFESSOR,3.9
+Chemical Engineering,186,Case Western Reserve University,Christine,,Duval,2424767,5,good,TEACHER,PROFESSOR,3.6
+English,186,Case Western Reserve University,Eric,,Earnhardt,2029593,1,good,TEACHER,PROFESSOR,4.5
+English,186,Case Western Reserve University,Malcah,,Effron,1772054,9,poor,TEACHER,PROFESSOR,2.4
+Modern Languages,186,Case Western Reserve University,Linda,,Ehrlich,17581,8,good,TEACHER,PROFESSOR,3.6
+English,186,Case Western Reserve University,Kimberly,,Emmons,408063,4,good,TEACHER,PROFESSOR,4.9
+Law,186,Case Western Reserve University,Jonathan,,Entin,391548,17,average,TEACHER,PROFESSOR,3.3
+Engineering,186,Case Western Reserve University,Steven,,Eppell,484004,10,good,TEACHER,PROFESSOR,3.7
+Sociology,186,Case Western Reserve University,Mary,,Erdmans,1780562,10,good,TEACHER,PROFESSOR,3.6
+Computer Science,186,Case Western Reserve University,Levent,,Ertaul,1162893,2,good,TEACHER,PROFESSOR,4.0
+Modern Languages,186,Case Western Reserve University,Haydee  ,,Espino Castillo,1991177,2,poor,TEACHER,PROFESSOR,2.2
+Chemical Engineering,186,Case Western Reserve University,Nathan,,Ewell,2383540,2,good,TEACHER,PROFESSOR,5.0
+English,186,Case Western Reserve University,Katharine,,Ewing,2363006,0,zero,TEACHER,PROFESSOR,N/A
+Psychology,186,Case Western Reserve University,Julie,,Exline,49248,22,good,TEACHER,PROFESSOR,4.2
+Medicine,186,Case Western Reserve University,Agata,,Exner,801571,0,zero,TEACHER,PROFESSOR,N/A
+Dental,186,Case Western Reserve University,Fady,,Faddoul,1698927,0,zero,TEACHER,PROFESSOR,N/A
+Psychology,186,Case Western Reserve University,Joseph,,Fagan,135163,13,good,TEACHER,PROFESSOR,4.7
+Medicine,186,Case Western Reserve University,Tommasso,,Falcone,1667484,0,zero,TEACHER,PROFESSOR,N/A
+Statistics,186,Case Western Reserve University,Richard,,Fan,958571,4,good,TEACHER,PROFESSOR,4.4
+Statistics,186,Case Western Reserve University,Souha,,Fares,1378537,2,good,TEACHER,PROFESSOR,4.0
+Theatre  Dance,186,Case Western Reserve University,Anaya,,Farrell,2101513,6,good,TEACHER,PROFESSOR,4.0
+Writing,186,Case Western Reserve University,Narcisz,,Fejes,2008035,8,good,TEACHER,PROFESSOR,4.5
+Chemical Engineering,186,Case Western Reserve University,Donald,,Feke,34953,26,good,TEACHER,PROFESSOR,5.0
+Medicine,186,Case Western Reserve University,David,,Feldman,197964,0,zero,TEACHER,PROFESSOR,N/A
+Nonprofit Management,186,Case Western Reserve University,Steven,,Feldman,1681715,4,good,TEACHER,PROFESSOR,4.3
+Sociology,186,Case Western Reserve University,Karie,,Feldman,1860051,30,good,TEACHER,PROFESSOR,4.2
+Electrical Engineering,186,Case Western Reserve University,Philip,,Feng,1870500,6,average,TEACHER,PROFESSOR,3.0
+Music,186,Case Western Reserve University,Paul,,Ferguson,88778,10,average,TEACHER,PROFESSOR,3.3
+Modern Languages,186,Case Western Reserve University,M. Elena,,Fernandez,51988,13,average,TEACHER,PROFESSOR,2.7
+Mathematics,186,Case Western Reserve University,Ulises,,Fidalgo,2196125,19,good,TEACHER,PROFESSOR,3.5
+Computer Science,186,Case Western Reserve University,Chris,,Fietkiewicz,279869,104,good,TEACHER,PROFESSOR,3.7
+Physics,186,Case Western Reserve University,Pavel,,Fileviez Perez,2464841,0,zero,TEACHER,PROFESSOR,N/A
+Finance,186,Case Western Reserve University,Scott,,Fine,131771,12,good,TEACHER,PROFESSOR,3.8
+Art Education,186,Case Western Reserve University,Margaret,,Fischer,88360,5,good,TEACHER,PROFESSOR,4.9
+Social Science,186,Case Western Reserve University,Rob,,Fischer,229215,0,zero,TEACHER,PROFESSOR,N/A
+Modern Languages,186,Case Western Reserve University,Margaret,,Fitzgerald,17584,23,good,TEACHER,PROFESSOR,3.9
+Statistics,186,Case Western Reserve University,Paula,,Fitzgibbon,324159,12,good,TEACHER,PROFESSOR,4.2
+Nursing,186,Case Western Reserve University,Joyce,,Fitzpatrick,2146279,0,zero,TEACHER,PROFESSOR,N/A
+Sociology,186,Case Western Reserve University,Michael,,Flatt,1563120,8,good,TEACHER,PROFESSOR,4.1
+English,186,Case Western Reserve University,Christopher,,Flint,106740,9,good,TEACHER,PROFESSOR,4.5
+History,186,Case Western Reserve University,John,,Flores,1424154,13,good,TEACHER,PROFESSOR,4.5
+Management,186,Case Western Reserve University,Kevin,,Flynn,2202734,2,good,TEACHER,PROFESSOR,5.0
+Accounting,186,Case Western Reserve University,Timothy,,Fogarty,1104860,7,average,TEACHER,PROFESSOR,3.4
+Nursing,186,Case Western Reserve University,David,,Foley,2370881,1,good,TEACHER,PROFESSOR,4.0
+Music,186,Case Western Reserve University,Timothy,,Fong,1219460,0,zero,TEACHER,PROFESSOR,N/A
+Economics,186,Case Western Reserve University,Silke,,Forbes,1807100,8,good,TEACHER,PROFESSOR,4.0
+Mathematics,186,Case Western Reserve University,Brendan,,Foreman,1965650,2,good,TEACHER,PROFESSOR,4.8
+English,186,Case Western Reserve University,Thomas (kenny),,Fountain,1388775,4,good,TEACHER,PROFESSOR,4.6
+Dental,186,Case Western Reserve University,Steven,,Fox,1472837,2,good,TEACHER,PROFESSOR,3.5
+Biology,186,Case Western Reserve University,Jessica,,Fox,2254081,3,good,TEACHER,PROFESSOR,4.0
+Medicine,186,Case Western Reserve University,Scott,,Frank,2168505,3,good,TEACHER,PROFESSOR,3.7
+Communication Sciences,186,Case Western Reserve University,Lisa,,Freebairn,2499076,0,zero,TEACHER,PROFESSOR,N/A
+Philosophy,186,Case Western Reserve University,Shannon,,French,1568033,13,good,TEACHER,PROFESSOR,4.8
+Dental,186,Case Western Reserve University,Sharon,,Freudenberger,2181656,0,zero,TEACHER,PROFESSOR,N/A
+History,186,Case Western Reserve University,Jia Chen,,FU,1580746,4,good,TEACHER,PROFESSOR,3.5
+Computer Science,186,Case Western Reserve University,Michael,,Fu,2252150,4,average,TEACHER,PROFESSOR,2.7
+Law,186,Case Western Reserve University,Leon,,Gabinet,1245730,2,good,TEACHER,PROFESSOR,4.2
+Dental,186,Case Western Reserve University,Stephen,,Gage,963037,0,zero,TEACHER,PROFESSOR,N/A
+Anthropology,186,Case Western Reserve University,Atwood,,Gaines,597137,22,average,TEACHER,PROFESSOR,3.1
+Theatre & Dance,186,Case Western Reserve University,T.J.,,Gainley,1544359,0,zero,TEACHER,PROFESSOR,N/A
+Nursing,186,Case Western Reserve University,Laurine,A.,Gajkowski,2165487,0,zero,TEACHER,PROFESSOR,N/A
+Computer Science,186,Case Western Reserve University,Roberto,Fernandez,Galan,2230028,34,average,TEACHER,PROFESSOR,2.6
+Nursing,186,Case Western Reserve University,Janine,,Galeski,1969092,2,average,TEACHER,PROFESSOR,3.3
+Economics,186,Case Western Reserve University,Justin,,Gallagher,2001566,6,average,TEACHER,PROFESSOR,2.8
+Social Work,186,Case Western Reserve University,Kathi,,Gant,1990286,1,good,TEACHER,PROFESSOR,5.0
+Physics,186,Case Western Reserve University,Xuan,,Gao,1307855,5,good,TEACHER,PROFESSOR,3.5
+Mechanical Engineering,186,Case Western Reserve University,Robert,X.,Gao,2277583,0,zero,TEACHER,PROFESSOR,N/A
+Mathematics,186,Case Western Reserve University,Eric,,Garcia,1162951,0,zero,TEACHER,PROFESSOR,N/A
+Nursing,186,Case Western Reserve University,Kimberly,,Garcia,2417020,3,average,TEACHER,PROFESSOR,2.7
+Engineering,186,Case Western Reserve University,Mario,,Garcia-Sanz,1899455,4,good,TEACHER,PROFESSOR,4.5
+Music,186,Case Western Reserve University,Matthew,,Garrett,2374233,1,good,TEACHER,PROFESSOR,5.0
+Civil Engineering,186,Case Western Reserve University,Dario,,Gasparini,29223,11,good,TEACHER,PROFESSOR,4.7
+History,186,Case Western Reserve University,Jay,,Geller,1624499,14,good,TEACHER,PROFESSOR,4.0
+English,186,Case Western Reserve University,Jessica,,Gerard,1633523,1,good,TEACHER,PROFESSOR,5.0
+Law,186,Case Western Reserve University,Peter,,Gerhart,391557,13,good,TEACHER,PROFESSOR,3.8
+Philosophy,186,Case Western Reserve University,Monica,,Gerrek,2415566,2,good,TEACHER,PROFESSOR,5.0
+Art History,186,Case Western Reserve University,Elina,,Gertsman,1757436,1,good,TEACHER,PROFESSOR,4.5
+Marketing,186,Case Western Reserve University,Somali,,Ghosh,2196149,9,good,TEACHER,PROFESSOR,4.2
+Management,186,Case Western Reserve University,James,,Gilmore,2295239,7,good,TEACHER,PROFESSOR,4.1
+Art,186,Case Western Reserve University,Joann,,Giordano,1127656,6,poor,TEACHER,PROFESSOR,2.2
+Mathematics,186,Case Western Reserve University,Victor,,Glasgo,2515993,0,zero,TEACHER,PROFESSOR,N/A
+Mathematics,186,Case Western Reserve University,Joseph,,Gleyzer,1161429,0,zero,TEACHER,PROFESSOR,N/A
+Dental,186,Case Western Reserve University,Jerold,,Goldberg,983490,0,zero,TEACHER,PROFESSOR,N/A
+Music,186,Case Western Reserve University,Daniel,,Goldmark,167910,8,good,TEACHER,PROFESSOR,4.9
+Anthropology,186,Case Western Reserve University,Melvyn,,Goldstein,194456,23,average,TEACHER,PROFESSOR,3.0
+English,186,Case Western Reserve University,Paulette,,Goll,64797,14,average,TEACHER,PROFESSOR,3.0
+Arts  Sciences,186,Case Western Reserve University,Christian,,Gomez Olivares,2036112,0,zero,TEACHER,PROFESSOR,N/A
+Modern Languages,186,Case Western Reserve University,Cristian,,Gomez Olivares,2085981,2,average,TEACHER,PROFESSOR,3.0
+Modern Languages,186,Case Western Reserve University,Cristian,,Gomez Oliviares,2053771,1,average,TEACHER,PROFESSOR,2.5
+Modern Languages,186,Case Western Reserve University,Haomin James,,Gong,2058857,0,zero,TEACHER,PROFESSOR,N/A
+Biomedical Engineering,186,Case Western Reserve University,Luis,,Gonzalez-Reyes,2477510,2,average,TEACHER,PROFESSOR,3.0
+Nursing,186,Case Western Reserve University,Marion,,Good,1604844,0,zero,TEACHER,PROFESSOR,N/A
+Mathematics,186,Case Western Reserve University,Donald,,Gooden,1168123,0,zero,TEACHER,PROFESSOR,N/A
+Information Systems,186,Case Western Reserve University,Tanvir,,Goraya,246371,0,zero,TEACHER,PROFESSOR,N/A
+History,186,Case Western Reserve University,John,,Grabowski,195049,16,good,TEACHER,PROFESSOR,4.2
+Sociology,186,Case Western Reserve University,Brian,,Gran,274729,19,good,TEACHER,PROFESSOR,4.8
+Accounting,186,Case Western Reserve University,Julia,,Grant,1318235,0,zero,TEACHER,PROFESSOR,N/A
+Biomedical Engineering,186,Case Western Reserve University,Miklos,,Gratzl,1049939,10,poor,TEACHER,PROFESSOR,2.0
+Chemistry,186,Case Western Reserve University,Thomas,,Gray,655787,6,good,TEACHER,PROFESSOR,4.3
+Mathematics,186,Case Western Reserve University,Vincent,J,Graziano,1765018,47,average,TEACHER,PROFESSOR,2.7
+Political Science,186,Case Western Reserve University,Jessica,,Green,1511560,6,average,TEACHER,PROFESSOR,3.2
+Biochemistry,186,Case Western Reserve University,Michael,,Greenberg,2161221,0,zero,TEACHER,PROFESSOR,N/A
+Psychology,186,Case Western Reserve University,Robert,,Greene,394381,26,good,TEACHER,PROFESSOR,3.8
+Anthropology,186,Case Western Reserve University,Lawrence,,Greksa,19039,32,good,TEACHER,PROFESSOR,3.9
+English,186,Case Western Reserve University,Sarah,,Gridley,1412146,10,good,TEACHER,PROFESSOR,4.0
+Sociology,186,Case Western Reserve University,Alan,,Grigsby,2324019,2,good,TEACHER,PROFESSOR,4.5
+English,186,Case Western Reserve University,Mary,,Grimm,52896,6,good,TEACHER,PROFESSOR,4.7
+Psychology,186,Case Western Reserve University,Susan,,Gross,2317638,3,good,TEACHER,PROFESSOR,4.7
+Chemical Engineering,186,Case Western Reserve University,Michael,,Grossner,1776549,0,zero,TEACHER,PROFESSOR,N/A
+Mathematics,186,Case Western Reserve University,David,,Grzybowski,2521524,0,zero,TEACHER,PROFESSOR,N/A
+Nursing,186,Case Western Reserve University,Kristen,A,Guadalupe,1826572,0,zero,TEACHER,PROFESSOR,N/A
+Art History,186,Case Western Reserve University,Noelle,,Guiffrida,2237004,2,good,TEACHER,PROFESSOR,4.5
+Mathematics,186,Case Western Reserve University,Weihong,,Guo,1473984,20,good,TEACHER,PROFESSOR,4.0
+Finance,186,Case Western Reserve University,Anurag,,Gupta,1550466,2,average,TEACHER,PROFESSOR,3.0
+Mathematics,186,Case Western Reserve University,David,,Gurarie,26337,51,poor,TEACHER,PROFESSOR,1.9
+Chemical Engineering,186,Case Western Reserve University,Burcu,,Gurkan,2380322,1,average,TEACHER,PROFESSOR,3.0
+Mechanical Engineering,186,Case Western Reserve University,Umut,A,Gurkan,1986089,3,good,TEACHER,PROFESSOR,4.2
+Electrical Engineering,186,Case Western Reserve University,Evren,,Gurkan-Cavusoglu,1901816,31,good,TEACHER,PROFESSOR,4.4
+Mathematics,186,Case Western Reserve University,Nick,,Gurski,2489104,1,poor,TEACHER,PROFESSOR,2.0
+Biomedical Engineering,186,Case Western Reserve University,Kenneth,,Gustafson,2121844,3,good,TEACHER,PROFESSOR,4.0
+Religion,186,Case Western Reserve University,Peter,,Haas,80243,17,average,TEACHER,PROFESSOR,3.4
+Anthropology,186,Case Western Reserve University,Bridget,,Haas,2136480,2,good,TEACHER,PROFESSOR,4.5
+History,186,Case Western Reserve University,David,,Hammack,130702,8,good,TEACHER,PROFESSOR,3.9
+Mathematics,186,Case Western Reserve University,Mike,,Hampton,2187064,11,good,TEACHER,PROFESSOR,4.8
+English,186,Case Western Reserve University,Tasia,,Hane,787004,10,good,TEACHER,PROFESSOR,3.9
+Anthropology,186,Case Western Reserve University,Michele,,Hanks,1761224,8,good,TEACHER,PROFESSOR,4.9
+Dental,186,Case Western Reserve University,Mark,,Hans,938192,2,good,TEACHER,PROFESSOR,5.0
+Information Systems,186,Case Western Reserve University,Sean,,Hansen,967157,3,good,TEACHER,PROFESSOR,5.0
+Biochemistry,186,Case Western Reserve University,Richard,,Hanson,820060,5,good,TEACHER,PROFESSOR,4.4
+Anthropology,186,Case Western Reserve University,Paul,,Hanson,2003807,36,good,TEACHER,PROFESSOR,4.7
+Political Science,186,Case Western Reserve University,Joseph,,Harder,1202255,0,zero,TEACHER,PROFESSOR,N/A
+Finance,186,Case Western Reserve University,Greg,,Harmon,2194907,7,good,TEACHER,PROFESSOR,3.5
+Biology,186,Case Western Reserve University,Deborah,,Harris,1575174,18,average,TEACHER,PROFESSOR,3.0
+Biochemistry,186,Case Western Reserve University,Michael,,Harris,2161222,0,zero,TEACHER,PROFESSOR,N/A
+Nutrition,186,Case Western Reserve University,Stephanie,,Harris,1835693,3,good,TEACHER,PROFESSOR,4.0
+Marketing,186,Case Western Reserve University,Nathaniel,,Hartmann,2434495,0,zero,TEACHER,PROFESSOR,N/A
+Geology,186,Case Western Reserve University,Ralph,,Harvey,240616,11,good,TEACHER,PROFESSOR,3.5
+Anthropology,186,Case Western Reserve University,Tenibac S,,Harvey,396050,9,good,TEACHER,PROFESSOR,4.3
+Geology,186,Case Western Reserve University,Steven,,Hauck,515562,6,good,TEACHER,PROFESSOR,4.0
+Philosophy,186,Case Western Reserve University,Christopher,,Haufe,1826971,8,good,TEACHER,PROFESSOR,3.6
+Economics,186,Case Western Reserve University,Jenny,Rae,Hawkins,1997411,24,good,TEACHER,PROFESSOR,4.1
+Modern Languages,186,Case Western Reserve University,Fabienne,,Haymore,17741,26,good,TEACHER,PROFESSOR,4.2
+Biology,186,Case Western Reserve University,Stephen,,Haynesworth,864958,8,good,TEACHER,PROFESSOR,4.2
+Biology,186,Case Western Reserve University,Valerie,,Haywood,1158181,81,average,TEACHER,PROFESSOR,3.2
+History,186,Case Western Reserve University,Lisa,,Hazirjian,1212849,5,good,TEACHER,PROFESSOR,3.8
+Social Science,186,Case Western Reserve University,Maureen,,Heffernan,1424533,0,zero,TEACHER,PROFESSOR,N/A
+Music,186,Case Western Reserve University,Stephen,,Hefling,632628,3,good,TEACHER,PROFESSOR,4.5
+Dental,186,Case Western Reserve University,Masahiro,,Heima,2005565,0,zero,TEACHER,PROFESSOR,N/A
+Art History,186,Case Western Reserve University,Anne,,Helmreich,793313,6,good,TEACHER,PROFESSOR,4.2
+Economics,186,Case Western Reserve University,Susan,,Helper,899494,5,average,TEACHER,PROFESSOR,3.3
+Music,186,Case Western Reserve University,Benjamin,,Helton,2323720,2,good,TEACHER,PROFESSOR,4.0
+Classics,186,Case Western Reserve University,Martin,,Helzle,88450,14,good,TEACHER,PROFESSOR,4.9
+Computer Science,186,Case Western Reserve University,Tim,,Henderson,1966988,1,good,TEACHER,PROFESSOR,4.0
+Philosophy,186,Case Western Reserve University,Laura,,Hengehold,27508,18,good,TEACHER,PROFESSOR,4.3
+Biology,186,Case Western Reserve University,Cara,,Henry,1030115,2,good,TEACHER,PROFESSOR,4.8
+Physical Education,186,Case Western Reserve University,Josie,,Henry,2329774,0,zero,TEACHER,PROFESSOR,N/A
+Chemistry,186,Case Western Reserve University,Raul,Juarez,Hernandez,2200718,7,good,TEACHER,PROFESSOR,4.0
+Materials Science,186,Case Western Reserve University,Arthur,,Heuer,1474812,2,poor,TEACHER,PROFESSOR,1.8
+English,186,Case Western Reserve University,John,,Higgins,2369394,3,good,TEACHER,PROFESSOR,5.0
+Anthropology,186,Case Western Reserve University,Vanessa,,Hildebrand,1733165,3,good,TEACHER,PROFESSOR,5.0
+Law,186,Case Western Reserve University,Beatrice Jessie,,Hill,436686,5,good,TEACHER,PROFESSOR,3.6
+Physics,186,Case Western Reserve University,Michael,,Hinczewski,2074351,1,good,TEACHER,PROFESSOR,5.0
+Physics,186,Case Western Reserve University,Kurt,,Hinterbichler,2308745,1,good,TEACHER,PROFESSOR,5.0
+Sociology,186,Case Western Reserve University,Susan,,Hinze,952932,8,good,TEACHER,PROFESSOR,4.5
+Communication Sciences,186,Case Western Reserve University,Alan,,Ho,2338490,1,poor,TEACHER,PROFESSOR,1.0
+Nutrition,186,Case Western Reserve University,Carolyn,,Hodges,2370877,2,good,TEACHER,PROFESSOR,4.5
+Political Science,186,Case Western Reserve University,Matthew,,Hodgetts,2447158,2,good,TEACHER,PROFESSOR,4.0
+Writing,186,Case Western Reserve University,Joshua,S,Hoeynck,1784385,14,good,TEACHER,PROFESSOR,4.5
+Anthropology,186,Case Western Reserve University,Lee,,Hoffer,1668067,6,good,TEACHER,PROFESSOR,5.0
+Law,186,Case Western Reserve University,Sharona,,Hoffman,856741,6,average,TEACHER,PROFESSOR,3.1
+Education,186,Case Western Reserve University,Jolly,,Holden,1178357,0,zero,TEACHER,PROFESSOR,N/A
+Accounting,186,Case Western Reserve University,Anthony,,Holder,1710768,0,zero,TEACHER,PROFESSOR,N/A
+Electrical Engineering,186,Case Western Reserve University,Mingguo,,Hong,2299792,1,good,TEACHER,PROFESSOR,5.0
+Social Work,186,Case Western Reserve University,Malika,,Hook Muhammad,2444014,1,poor,TEACHER,PROFESSOR,1.0
+Macromolecular Science  Eng,186,Case Western Reserve University,Michael-Jon,,Hore,2230566,4,good,TEACHER,PROFESSOR,5.0
+Mathematics,186,Case Western Reserve University,Mary,Ann,Horn,2522662,0,zero,TEACHER,PROFESSOR,N/A
+Music,186,Case Western Reserve University,Kathleen,,Horvath,88777,10,good,TEACHER,PROFESSOR,4.3
+Mechanical Engineering,186,Case Western Reserve University,Steven,,Hostler,984126,4,good,TEACHER,PROFESSOR,5.0
+Music,186,Case Western Reserve University,Jack,,Hourihane,2005111,1,poor,TEACHER,PROFESSOR,1.0
+English,186,Case Western Reserve University,Michael,,Householder,1971006,7,good,TEACHER,PROFESSOR,3.5
+Philosophy,186,Case Western Reserve University,Kevin,,Houser,2140629,11,good,TEACHER,PROFESSOR,3.5
+Management,186,Case Western Reserve University,Anita,,Howard,1040521,10,average,TEACHER,PROFESSOR,3.0
+Religion,186,Case Western Reserve University,Justine,,Howe,1861597,10,good,TEACHER,PROFESSOR,4.7
+Electrical Engineering,186,Case Western Reserve University,Ming-Chun,,Huang,2285217,14,average,TEACHER,PROFESSOR,3.3
+Civil Engineering,186,Case Western Reserve University,Arthur,,Huckelbridge,29229,5,good,TEACHER,PROFESSOR,4.3
+Nursing,186,Case Western Reserve University,Christine,,Hudak,1020817,7,good,TEACHER,PROFESSOR,4.1
+Mathematics,186,Case Western Reserve University,Michael,,Hurley,63383,38,average,TEACHER,PROFESSOR,3.4
+Sociology,186,Case Western Reserve University,Heather,,Hurwitz,2402033,7,average,TEACHER,PROFESSOR,2.7
+Medicine,186,Case Western Reserve University,Insoo,,Hyun,347175,21,good,TEACHER,PROFESSOR,4.7
+English,186,Case Western Reserve University,Denna,,Iammarino,2362215,3,average,TEACHER,PROFESSOR,3.3
+Anthropology,186,Case Western Reserve University,Charlotte,,Ikels,26373,6,poor,TEACHER,PROFESSOR,2.0
+MacRomolecular Science & Eng,186,Case Western Reserve University,Hatsuo,,Ishida,131374,36,average,TEACHER,PROFESSOR,3.4
+Modern Languages,186,Case Western Reserve University,Aiko,,Ishii,1869157,1,good,TEACHER,PROFESSOR,5.0
+Modern Languages,186,Case Western Reserve University,Ramez,,Islambouli,948043,23,good,TEACHER,PROFESSOR,4.7
+Classics,186,Case Western Reserve University,Paul,,Iversen,531990,6,good,TEACHER,PROFESSOR,4.7
+Mathematics,186,Case Western Reserve University,Steven,,Izen,75386,46,good,TEACHER,PROFESSOR,3.5
+Philosophy,186,Case Western Reserve University,Anthony,,Jack,1085087,56,good,TEACHER,PROFESSOR,4.2
+Nursing,186,Case Western Reserve University,Molly,,Jackson,2358094,0,zero,TEACHER,PROFESSOR,N/A
+MacRomolecular Science & Eng,186,Case Western Reserve University,Alexander,,Jamieson,203101,9,average,TEACHER,PROFESSOR,2.7
+Organizational Behavior,186,Case Western Reserve University,Sophie,,Jane,2313444,0,zero,TEACHER,PROFESSOR,N/A
+Astronomy,186,Case Western Reserve University,Bill,,Janesh,2458442,1,good,TEACHER,PROFESSOR,5.0
+English,186,Case Western Reserve University,Paul,,Jaussen,1890664,1,good,TEACHER,PROFESSOR,4.5
+Mathematics,186,Case Western Reserve University,Justin,,Jenkinson,922895,3,good,TEACHER,PROFESSOR,3.5
+Civil Engineering,186,Case Western Reserve University,Aaron,,Jennings,29220,5,good,TEACHER,PROFESSOR,4.6
+Theatre & Dance,186,Case Western Reserve University,John,,Jensen,1042812,9,good,TEACHER,PROFESSOR,4.9
+English,186,Case Western Reserve University,Gerard,,Jessica,1562794,3,good,TEACHER,PROFESSOR,3.5
+English,186,Case Western Reserve University,Megan,,Jewell,1640472,6,good,TEACHER,PROFESSOR,3.9
+English,186,Case Western Reserve University,Wei,,Jiang,2398815,1,good,TEACHER,PROFESSOR,5.0
+History,186,Case Western Reserve University,Bernard,,Jim,1098774,5,good,TEACHER,PROFESSOR,4.9
+Writing,186,Case Western Reserve University,Bernard,,Jim,1986727,2,good,TEACHER,PROFESSOR,5.0
+Computer Science,186,Case Western Reserve University,Shudong,,Jin,774534,8,average,TEACHER,PROFESSOR,2.5
+Accounting,186,Case Western Reserve University,Jennifer,,Johnson,1419446,0,zero,TEACHER,PROFESSOR,N/A
+Computer Science,186,Case Western Reserve University,Eamon,,Johnson,2400271,5,average,TEACHER,PROFESSOR,3.4
+Biology,186,Case Western Reserve University,Emmitt,,Jolly,1793877,5,good,TEACHER,PROFESSOR,4.4
+Accounting,186,Case Western Reserve University,David,,Jones,1566437,3,good,TEACHER,PROFESSOR,4.7
+Biochemistry,186,Case Western Reserve University,Stephen,,Jones,2191526,0,zero,TEACHER,PROFESSOR,N/A
+English,186,Case Western Reserve University,Sam,,Joseph,1176082,0,zero,TEACHER,PROFESSOR,N/A
+Mathematics,186,Case Western Reserve University,Charles,,Joseph,1737030,2,good,TEACHER,PROFESSOR,4.8
+Chemistry,186,Case Western Reserve University,Raul,E,Juarez,1848909,22,good,TEACHER,PROFESSOR,4.0
+Nursing,186,Case Western Reserve University,Evanne,,Juratovac,2436057,0,zero,TEACHER,PROFESSOR,N/A
+General Education,186,Case Western Reserve University,David,,Jurca,1599235,0,zero,TEACHER,PROFESSOR,N/A
+Mechanical Engineering,186,Case Western Reserve University,Jaikrishnan,,Kadambi,233797,10,average,TEACHER,PROFESSOR,3.3
+Nutrition,186,Case Western Reserve University,Lynn,C,Kam,1881951,7,average,TEACHER,PROFESSOR,3.4
+Biology,186,Case Western Reserve University,Shah,,Kamal,1177506,0,zero,TEACHER,PROFESSOR,N/A
+Biochemistry,186,Case Western Reserve University,Hung-Ying,,Kao,1700444,3,poor,TEACHER,PROFESSOR,1.9
+Not Specified,186,Case Western Reserve University,Rachel,,Kapelle,1498370,4,good,TEACHER,PROFESSOR,4.9
+Biomedical Engineering,186,Case Western Reserve University,Efstathios,,Karathanasis,1509394,6,good,TEACHER,PROFESSOR,3.8
+Geology,186,Case Western Reserve University,James,,Karner,1461212,0,zero,TEACHER,PROFESSOR,N/A
+Geology,186,Case Western Reserve University,Jim,,Karner,1461213,1,good,TEACHER,PROFESSOR,5.0
+Physics,186,Case Western Reserve University,Kathleen,,Kash,888837,5,average,TEACHER,PROFESSOR,3.2
+Law,186,Case Western Reserve University,Lewis,,Katz,1159967,3,good,TEACHER,PROFESSOR,4.2
+Nursing,186,Case Western Reserve University,Mary,,Kavanagh,2132575,1,average,TEACHER,PROFESSOR,3.0
+Electrical Engineering,186,Case Western Reserve University,David,,Kazdan,2110102,2,good,TEACHER,PROFESSOR,5.0
+Political Science,186,Case Western Reserve University,William,,Keating,1197259,0,zero,TEACHER,PROFESSOR,N/A
+Sociology,186,Case Western Reserve University,Jessica,,Kelley-Moore,2128510,3,good,TEACHER,PROFESSOR,5.0
+English,186,Case Western Reserve University,Kristine,,Kelly,799340,14,good,TEACHER,PROFESSOR,3.8
+Physical Education,186,Case Western Reserve University,Chris,,Kelly,2193083,3,good,TEACHER,PROFESSOR,5.0
+English,186,Case Western Reserve University,Caitlin,,Kelly,2430521,2,good,TEACHER,PROFESSOR,3.5
+Physical Education,186,Case Western Reserve University,Patrick,,Kennedy,25944,4,average,TEACHER,PROFESSOR,3.0
+Chemistry,186,Case Western Reserve University,Michael,,Kenney,844345,84,average,TEACHER,PROFESSOR,3.2
+Law,186,Case Western Reserve University,Maureen,,Kenny,1098770,4,average,TEACHER,PROFESSOR,3.4
+Chemistry,186,Case Western Reserve University,Micheal,,Kenny,1332802,9,average,TEACHER,PROFESSOR,2.8
+Medicine,186,Case Western Reserve University,Timothy,,Kern,986527,0,zero,TEACHER,PROFESSOR,N/A
+Physics,186,Case Western Reserve University,Peter,,Kernan,606972,20,average,TEACHER,PROFESSOR,2.8
+Mechanical Engineering,186,Case Western Reserve University,Chirag,,Kharangate,2386158,4,average,TEACHER,PROFESSOR,2.8
+Writing,186,Case Western Reserve University,Shun,,Kiang,2368349,1,good,TEACHER,PROFESSOR,5.0
+Economics,186,Case Western Reserve University,Edward,,Kickel,2439716,1,poor,TEACHER,PROFESSOR,1.0
+Philosophy,186,Case Western Reserve University,Chin-Tai,,Kim,88481,26,good,TEACHER,PROFESSOR,3.8
+Social Work,186,Case Western Reserve University,Kelly,,Kimble,2175422,0,zero,TEACHER,PROFESSOR,N/A
+Physics,186,Case Western Reserve University,Jesse,,Kinder,1650549,11,average,TEACHER,PROFESSOR,3.0
+Medicine,186,Case Western Reserve University,Timothy,,Kinsella,1173567,0,zero,TEACHER,PROFESSOR,N/A
+History,186,Case Western Reserve University,Jonathan,,KinseR,1943851,1,good,TEACHER,PROFESSOR,3.5
+Modern Languages,186,Case Western Reserve University,Yoshiko,,Kishi,75384,28,good,TEACHER,PROFESSOR,4.8
+Psychology,186,Case Western Reserve University,Susan,,Klein,1535549,2,average,TEACHER,PROFESSOR,2.5
+Economics,186,Case Western Reserve University,Jack,,Kleinhenz,274701,3,good,TEACHER,PROFESSOR,4.3
+Nursing,186,Case Western Reserve University,Mark,,Klimek,1192078,0,zero,TEACHER,PROFESSOR,N/A
+Medicine,186,Case Western Reserve University,Julia,,Knopes,2482150,1,good,TEACHER,PROFESSOR,5.0
+Biomedical Engineering,186,Case Western Reserve University,Melissa,,Knothe Tate,910461,6,good,TEACHER,PROFESSOR,4.2
+English,186,Case Western Reserve University,Kurt,,Koenigsberger,819349,2,average,TEACHER,PROFESSOR,3.2
+Engineering,186,Case Western Reserve University,Richard,,Kolacinski,2186553,0,zero,TEACHER,PROFESSOR,N/A
+Computer Science,186,Case Western Reserve University,Richard,,Kolacinski,2125377,33,poor,TEACHER,PROFESSOR,2.0
+Music,186,Case Western Reserve University,Richard,,Kolb,896713,2,good,TEACHER,PROFESSOR,3.8
+History,186,Case Western Reserve University,Elisabeth,,Koll,88548,16,good,TEACHER,PROFESSOR,3.8
+Statistics,186,Case Western Reserve University,Sreenivas,,Konda,626490,14,good,TEACHER,PROFESSOR,4.5
+Music,186,Case Western Reserve University,Lisa,,Koops,1027199,6,good,TEACHER,PROFESSOR,4.9
+Macromolecular Science & Eng,186,Case Western Reserve University,Lashonda,,Korley,1564402,1,poor,TEACHER,PROFESSOR,1.0
+Nutrition,186,Case Western Reserve University,Jane,,Korsberg,298275,9,good,TEACHER,PROFESSOR,3.6
+Law,186,Case Western Reserve University,Juliet,,Kostritsky,436679,28,good,TEACHER,PROFESSOR,4.1
+Mathematics,186,Case Western Reserve University,Peter,,Kotelenez,21914,38,average,TEACHER,PROFESSOR,2.8
+Biomedical Engineering,186,Case Western Reserve University,Dmitri,,Kourennyi,484010,10,good,TEACHER,PROFESSOR,3.6
+Physics,186,Case Western Reserve University,Kenneth,,Kowalski,206559,28,poor,TEACHER,PROFESSOR,1.5
+Computer Science,186,Case Western Reserve University,Mehmet,,Koyuturk,1104419,24,good,TEACHER,PROFESSOR,4.3
+Art,186,Case Western Reserve University,George,,Kozmon,1846470,5,average,TEACHER,PROFESSOR,3.1
+Social Science,186,Case Western Reserve University,David,,Kribel,2258232,1,good,TEACHER,PROFESSOR,5.0
+Astronomy,186,Case Western Reserve University,Jeffrey,,Kriessler,308603,17,average,TEACHER,PROFESSOR,2.7
+Law,186,Case Western Reserve University,Raymond,,Ku,2306250,0,zero,TEACHER,PROFESSOR,N/A
+Biology,186,Case Western Reserve University,Dianne,,Kube,1622186,34,average,TEACHER,PROFESSOR,2.8
+Biology,186,Case Western Reserve University,Barbara,,Kuemerle,1267974,30,average,TEACHER,PROFESSOR,3.4
+Biochemistry,186,Case Western Reserve University,David,,Kuo,2098753,6,good,TEACHER,PROFESSOR,5.0
+English,186,Case Western Reserve University,James,,Kuzner,1259641,7,good,TEACHER,PROFESSOR,4.5
+Chemical Engineering,186,Case Western Reserve University,Daniel,,Lacks,507682,7,good,TEACHER,PROFESSOR,4.3
+Law,186,Case Western Reserve University,Catherine,,Lacroix,856744,5,good,TEACHER,PROFESSOR,3.9
+Modern Languages,186,Case Western Reserve University,Carlos,,Lafuente-Rodriguez,927297,3,good,TEACHER,PROFESSOR,3.5
+Materials Science,186,Case Western Reserve University,Peter,,Lagerlof,757259,28,good,TEACHER,PROFESSOR,3.8
+English,186,Case Western Reserve University,Anastasia,,Lakhtikova,1901226,5,poor,TEACHER,PROFESSOR,2.2
+Physics,186,Case Western Reserve University,Walter,,Lambrecht,1243387,1,average,TEACHER,PROFESSOR,3.0
+Chemical Engineering,186,Case Western Reserve University,Uziel,,Landau,948462,11,poor,TEACHER,PROFESSOR,2.4
+Physical Education,186,Case Western Reserve University,Kathleen,,Lanese,447331,6,good,TEACHER,PROFESSOR,5.0
+Mathematics,186,Case Western Reserve University,Joel,,Langer,88372,40,good,TEACHER,PROFESSOR,3.8
+Mathematics,186,Case Western Reserve University,Richard,,Lartey,2018533,1,good,TEACHER,PROFESSOR,5.0
+History,186,Case Western Reserve University,Marixa,,Lasso,782207,8,average,TEACHER,PROFESSOR,3.1
+Organizational Behavior,186,Case Western Reserve University,Chris,,Laszlo,1575358,0,zero,TEACHER,PROFESSOR,N/A
+Modern Languages,186,Case Western Reserve University,Marie,,Lathers,51984,14,average,TEACHER,PROFESSOR,3.4
+Anthropology,186,Case Western Reserve University,Bruce,,Latimer,1704616,7,good,TEACHER,PROFESSOR,5.0
+Management,186,Case Western Reserve University,Dennis,,Laurie,1174914,0,zero,TEACHER,PROFESSOR,N/A
+Political Science,186,Case Western Reserve University,Kathryn,,Lavelle,88771,21,good,TEACHER,PROFESSOR,4.6
+Biomedical Engineering,186,Case Western Reserve University,Erin,,Lavik,1961698,1,poor,TEACHER,PROFESSOR,1.5
+Psychology,186,Case Western Reserve University,Bonnie,,Lawrence,930759,7,good,TEACHER,PROFESSOR,4.4
+Psychology,186,Case Western Reserve University,Erin,,Lea,1314232,0,zero,TEACHER,PROFESSOR,N/A
+Law,186,Case Western Reserve University,Wilbur,,Leatherberry,1096074,3,good,TEACHER,PROFESSOR,3.7
+History,186,Case Western Reserve University,Kenneth,,Ledford,17529,28,good,TEACHER,PROFESSOR,4.5
+Chemistry,186,Case Western Reserve University,Irene,,Lee,302802,18,average,TEACHER,PROFESSOR,2.8
+Electrical Engineering,186,Case Western Reserve University,Gregory,,Lee,1837551,44,poor,TEACHER,PROFESSOR,1.9
+Mechanical Engineering,186,Case Western Reserve University,Kiju,,Lee,1274939,14,good,TEACHER,PROFESSOR,4.2
+Mathematics,186,Case Western Reserve University,Marshall,,Leitman,17107,81,poor,TEACHER,PROFESSOR,2.0
+History,186,Case Western Reserve University,Miriam,,Levin,282930,12,poor,TEACHER,PROFESSOR,2.2
+Art Education,186,Case Western Reserve University,Sally,,Levine,498678,3,good,TEACHER,PROFESSOR,4.2
+Psychology,186,Case Western Reserve University,Kay,,Levine,2010706,0,zero,TEACHER,PROFESSOR,N/A
+Materials Science,186,Case Western Reserve University,John,,Lewandowski,1224747,4,good,TEACHER,PROFESSOR,4.8
+Computer Science,186,Case Western Reserve University,Michael,,Lewicki,1478435,19,average,TEACHER,PROFESSOR,3.2
+Computer Science,186,Case Western Reserve University,Jing,,Li,846293,17,average,TEACHER,PROFESSOR,2.7
+Engineering,186,Case Western Reserve University,Bo,,Li,2255035,3,poor,TEACHER,PROFESSOR,1.0
+Mathematics,186,Case Western Reserve University,Ben,,Li,2357114,1,good,TEACHER,PROFESSOR,5.0
+Statistics,186,Case Western Reserve University,Pan,,Li,2231701,5,poor,TEACHER,PROFESSOR,1.6
+Chemistry,186,Case Western Reserve University,Fu-Sen,,Liang,2482745,2,good,TEACHER,PROFESSOR,4.0
+Computer Science,186,Case Western Reserve University,Vincenzo,,Liberatore,16817,43,average,TEACHER,PROFESSOR,3.3
+General Education,186,Case Western Reserve University,Trudy,,Lieberman,929300,3,average,TEACHER,PROFESSOR,2.9
+Nonprofit Management,186,Case Western Reserve University,Mark,,Light,1221350,22,good,TEACHER,PROFESSOR,4.8
+Mathematics,186,Case Western Reserve University,Christopher,,Lin,1509391,6,good,TEACHER,PROFESSOR,4.2
+Modern Languages,186,Case Western Reserve University,Clara,,Lipszyc-Arroyo,1379275,20,good,TEACHER,PROFESSOR,4.8
+Medicine,186,Case Western Reserve University,Jerome,,Litt,476990,0,zero,TEACHER,PROFESSOR,N/A
+Chemical Engineering,186,Case Western Reserve University,Chung-Chiun,,Liu,948463,2,good,TEACHER,PROFESSOR,5.0
+Mathematics,186,Case Western Reserve University,Kathryn,,Lockwood,2248126,7,good,TEACHER,PROFESSOR,4.1
+Modern Languages,186,Case Western Reserve University,Enno,,Lohmeyer,509307,19,good,TEACHER,PROFESSOR,4.9
+Art,186,Case Western Reserve University,Martha,,Lois,2236510,1,poor,TEACHER,PROFESSOR,2.0
+Social Work,186,Case Western Reserve University,Amy,Vasilko,Lomis,2351622,1,good,TEACHER,PROFESSOR,4.0
+Electrical Engineering,186,Case Western Reserve University,Kenneth,,Loparo,25011,25,good,TEACHER,PROFESSOR,3.8
+Marketing,186,Case Western Reserve University,Mary Mimi,,Lord,1870318,1,good,TEACHER,PROFESSOR,5.0
+Epidemiology,186,Case Western Reserve University,Sana,,Loue,1773500,0,zero,TEACHER,PROFESSOR,N/A
+Biomedical Engineering,186,Case Western Reserve University,Zheng-Rong,,Lu,1937296,0,zero,TEACHER,PROFESSOR,N/A
+English,186,Case Western Reserve University,Shaofei,,Lu,2306061,4,average,TEACHER,PROFESSOR,3.0
+Writing,186,Case Western Reserve University,David,,Lucas,2125217,5,good,TEACHER,PROFESSOR,4.9
+Astronomy,186,Case Western Reserve University,R. Earle,,Luck,16807,17,average,TEACHER,PROFESSOR,2.5
+Nursing,186,Case Western Reserve University,Susan,,Ludington,1847831,4,poor,TEACHER,PROFESSOR,1.6
+Economics,186,Case Western Reserve University,Martine,,Lussier,49244,53,average,TEACHER,PROFESSOR,3.0
+Biology,186,Case Western Reserve University,Audrey,,Lynn,1888266,10,average,TEACHER,PROFESSOR,2.9
+English,186,Case Western Reserve University,Michelle,,Lyons-McFarland,2436307,1,good,TEACHER,PROFESSOR,5.0
+Information Systems,186,Case Western Reserve University,Kalle,,Lyytinen,1150391,2,average,TEACHER,PROFESSOR,3.2
+Statistics,186,Case Western Reserve University,Junheng,,MA,1227777,2,poor,TEACHER,PROFESSOR,1.0
+Physical Education,186,Case Western Reserve University,Marcus,,MacAlla,1682776,2,good,TEACHER,PROFESSOR,5.0
+Music,186,Case Western Reserve University,Brian,,MacGilvray,2186610,5,good,TEACHER,PROFESSOR,4.0
+Psychology,186,Case Western Reserve University,Brooke,,Macnamara,2446651,2,poor,TEACHER,PROFESSOR,2.0
+Finance,186,Case Western Reserve University,Leonardo,,Madureira,1015558,11,good,TEACHER,PROFESSOR,3.6
+Medicine,186,Case Western Reserve University,Michael,,Maguire,1268075,3,good,TEACHER,PROFESSOR,4.7
+Macromolecular Science  Eng,186,Case Western Reserve University,João,,Maia,2009508,3,average,TEACHER,PROFESSOR,3.3
+English,186,Case Western Reserve University,Howard,,Maier,2374223,0,zero,TEACHER,PROFESSOR,N/A
+Electrical Engineering,186,Case Western Reserve University,Behnam,,Malakooti,63731,27,average,TEACHER,PROFESSOR,3.3
+Nutrition,186,Case Western Reserve University,Lindsay,,Malone,1917317,14,good,TEACHER,PROFESSOR,4.8
+MacRomolecular Science & Eng,186,Case Western Reserve University,Ica,,Manas-Zloczower,25179,5,good,TEACHER,PROFESSOR,4.6
+Electrical Engineering,186,Case Western Reserve University,Soumyajit,,Mandal,2028432,6,good,TEACHER,PROFESSOR,3.8
+Mechanical Engineering,186,Case Western Reserve University,Joseph,,Mansour,1557099,8,poor,TEACHER,PROFESSOR,2.3
+Biomedical Engineering,186,Case Western Reserve University,Roger,,Marchant,635808,3,poor,TEACHER,PROFESSOR,2.0
+Nursing,186,Case Western Reserve University,Jane,,Marek,2239463,4,good,TEACHER,PROFESSOR,4.2
+Chemistry,186,Case Western Reserve University,Phillip,,Mark,1746252,0,zero,TEACHER,PROFESSOR,N/A
+Medicine,186,Case Western Reserve University,Sanford,,Markowitz,530725,0,zero,TEACHER,PROFESSOR,N/A
+English,186,Case Western Reserve University,William,,Marling,819120,11,average,TEACHER,PROFESSOR,2.8
+Medicine,186,Case Western Reserve University,Frank,,Marrero,1250728,0,zero,TEACHER,PROFESSOR,N/A
+Communication Sciences,186,Case Western Reserve University,Rodney,,Marshall,1191516,0,zero,TEACHER,PROFESSOR,N/A
+Not Specified,186,Case Western Reserve University,Olivier,,Marteau,1772048,4,good,TEACHER,PROFESSOR,4.5
+Physics,186,Case Western Reserve University,Michael,A.,Martens,1935906,1,good,TEACHER,PROFESSOR,4.5
+Chemical Engineering,186,Case Western Reserve University,Heidi,,Martin,948464,10,poor,TEACHER,PROFESSOR,2.0
+Biology,186,Case Western Reserve University,Ryan,,Martin,2041320,3,good,TEACHER,PROFESSOR,4.2
+Accounting,186,Case Western Reserve University,Sharon,,Martin,2061909,7,good,TEACHER,PROFESSOR,3.5
+Organizational Behavior,186,Case Western Reserve University,Hector,,Martinez,1805899,1,good,TEACHER,PROFESSOR,4.5
+Electrical Engineering,186,Case Western Reserve University,Carlos,,Mastrangelo,838294,1,good,TEACHER,PROFESSOR,5.0
+Economics,186,Case Western Reserve University,Cristiana,,Mastrogiacomi,1023755,6,average,TEACHER,PROFESSOR,3.0
+Physics,186,Case Western Reserve University,Harsh,,Mathur,954112,27,good,TEACHER,PROFESSOR,4.7
+Operations Management,186,Case Western Reserve University,Kamlesh,,Mathur,1689566,3,good,TEACHER,PROFESSOR,3.9
+Geology,186,Case Western Reserve University,Gerald,,Matisoff,26367,12,average,TEACHER,PROFESSOR,3.0
+Materials Science,186,Case Western Reserve University,David,,Matthiesen,25392,90,poor,TEACHER,PROFESSOR,2.2
+Mechanical Engineering,186,Case Western Reserve University,Brian,,Maxwell,2431555,4,average,TEACHER,PROFESSOR,2.5
+Psychology,186,Case Western Reserve University,Christine,,May,1873301,2,good,TEACHER,PROFESSOR,3.8
+Geology,186,Case Western Reserve University,Peter,,McCall,70356,22,good,TEACHER,PROFESSOR,4.1
+Psychology,186,Case Western Reserve University,Todd,,McCallum,293429,20,good,TEACHER,PROFESSOR,4.0
+Administration,186,Case Western Reserve University,Amanda,,McCarthy,2478704,0,zero,TEACHER,PROFESSOR,N/A
+Music,186,Case Western Reserve University,Susan,,McClary,1820359,4,good,TEACHER,PROFESSOR,4.4
+Nursing,186,Case Western Reserve University,Kelly,,McConnell,2436063,0,zero,TEACHER,PROFESSOR,N/A
+English,186,Case Western Reserve University,Michelle,Lyons,McFarland,2382897,0,zero,TEACHER,PROFESSOR,N/A
+Astronomy,186,Case Western Reserve University,Stacy,,McGaugh,1955535,7,good,TEACHER,PROFESSOR,3.9
+Mathematics,186,Case Western Reserve University,Debra,,McGivney,2073470,10,good,TEACHER,PROFESSOR,4.8
+Anthropology,186,Case Western Reserve University,Janet,,McGrath,33326,12,average,TEACHER,PROFESSOR,3.2
+Sociology,186,Case Western Reserve University,Emilia,,McGucken,26691,21,good,TEACHER,PROFESSOR,3.6
+Political Science,186,Case Western Reserve University,Vincent,,McHale,16708,19,good,TEACHER,PROFESSOR,3.9
+Philosophy,186,Case Western Reserve University,Colin,,McLarty,88483,33,average,TEACHER,PROFESSOR,3.5
+Political Science,186,Case Western Reserve University,Kelly,,McMann,618705,16,good,TEACHER,PROFESSOR,3.7
+Law,186,Case Western Reserve University,Kevin,,McMunigal,585986,11,good,TEACHER,PROFESSOR,4.3
+Communication Sciences,186,Case Western Reserve University,Kathryn,,McNeal,26366,6,good,TEACHER,PROFESSOR,4.5
+Music,186,Case Western Reserve University,Rachel,,McNellis,2417006,1,good,TEACHER,PROFESSOR,5.0
+Not Specified,186,Case Western Reserve University,Eve,,McPherson,1561055,3,good,TEACHER,PROFESSOR,4.5
+Mathematics,186,Case Western Reserve University,Elizabeth,,Meckes,1796395,16,good,TEACHER,PROFESSOR,3.6
+Mathematics,186,Case Western Reserve University,Mark,,Meckes,17847,42,good,TEACHER,PROFESSOR,4.0
+Accounting,186,Case Western Reserve University,Michele,,Meckfessel,1712875,3,good,TEACHER,PROFESSOR,5.0
+Medicine,186,Case Western Reserve University,Edward,,Medof,2286467,0,zero,TEACHER,PROFESSOR,N/A
+Law,186,Case Western Reserve University,Maxwell,,Mehlman,1422939,2,good,TEACHER,PROFESSOR,4.0
+English,186,Case Western Reserve University,Suhaan,,Mehta,1977000,8,good,TEACHER,PROFESSOR,4.9
+English,186,Case Western Reserve University,Daniel,,Melnick,769136,7,good,TEACHER,PROFESSOR,3.8
+Electrical Engineering,186,Case Western Reserve University,Francis,,Merat,16717,36,good,TEACHER,PROFESSOR,4.8
+Law,186,Case Western Reserve University,Kathryn,,Mercer,953780,3,average,TEACHER,PROFESSOR,3.0
+Organizational Behavior,186,Case Western Reserve University,Tracey,,Messer,2305089,2,good,TEACHER,PROFESSOR,4.5
+English,186,Case Western Reserve University,Terri,,Mester,286741,11,good,TEACHER,PROFESSOR,4.5
+Civil Engineering,186,Case Western Reserve University,Brian,,Metrovich,1494484,17,good,TEACHER,PROFESSOR,4.2
+Nursing,186,Case Western Reserve University,Gretchen,,Mettler,1756306,0,zero,TEACHER,PROFESSOR,N/A
+Chemistry,186,Case Western Reserve University,Drew,,Meyer,1869141,110,good,TEACHER,PROFESSOR,3.5
+Materials Science,186,Case Western Reserve University,Gary,,Michal,846254,3,good,TEACHER,PROFESSOR,4.3
+History,186,Case Western Reserve University,Dick,,Michel,1316106,0,zero,TEACHER,PROFESSOR,N/A
+Astronomy,186,Case Western Reserve University,James Christopher,,Mihos,48454,13,good,TEACHER,PROFESSOR,4.4
+Social Science,186,Case Western Reserve University,David,,Miller,137485,6,good,TEACHER,PROFESSOR,3.8
+English,186,Case Western Reserve University,Kimberly,,Miller,1724802,3,poor,TEACHER,PROFESSOR,2.3
+Biology,186,Case Western Reserve University,Hannah,,Miller,2046065,2,good,TEACHER,PROFESSOR,4.5
+Operations Management,186,Case Western Reserve University,William,,Millhiser,885589,0,zero,TEACHER,PROFESSOR,N/A
+Physical Education,186,Case Western Reserve University,Douglas,,Milliken,1798708,4,good,TEACHER,PROFESSOR,4.2
+Social Science,186,Case Western Reserve University,Andrea,,Milne,2357771,5,good,TEACHER,PROFESSOR,4.8
+English,186,Case Western Reserve University,Marcus,,Mitchell,1354212,2,good,TEACHER,PROFESSOR,5.0
+Biology,186,Case Western Reserve University,Claudia,,Mizutani,2316961,0,zero,TEACHER,PROFESSOR,N/A
+English,186,Case Western Reserve University,Marilyn,,Mobley,1690748,1,good,TEACHER,PROFESSOR,4.0
+Electrical Engineering,186,Case Western Reserve University,Pedram,,Mohseni,1439904,19,average,TEACHER,PROFESSOR,3.0
+Not Specified,186,Case Western Reserve University,Sean,,Moiles,1776039,1,good,TEACHER,PROFESSOR,4.5
+Finance,186,Case Western Reserve University,Elena-Claudia,,Moise,933344,8,average,TEACHER,PROFESSOR,3.0
+Statistics,186,Case Western Reserve University,Anirban,,Mondal,2110481,8,poor,TEACHER,PROFESSOR,1.8
+Physics,186,Case Western Reserve University,Benjamin,,Monreal,2298409,2,average,TEACHER,PROFESSOR,3.0
+Sociology,186,Case Western Reserve University,Jennifer,,Montez,1861594,1,good,TEACHER,PROFESSOR,4.0
+Languages,186,Case Western Reserve University,Irene,,Moody,370315,9,average,TEACHER,PROFESSOR,3.2
+Political Science,186,Case Western Reserve University,Pete,,Moore,677845,15,good,TEACHER,PROFESSOR,4.0
+Biology,186,Case Western Reserve University,Jean,,Moriuchi,1556808,7,good,TEACHER,PROFESSOR,4.5
+Astronomy,186,Case Western Reserve University,Heather,,Morrison,48450,6,average,TEACHER,PROFESSOR,2.6
+Nursing,186,Case Western Reserve University,Barbara,,Morrison,968825,1,good,TEACHER,PROFESSOR,5.0
+Social Work,186,Case Western Reserve University,Malika,,Muhammad,2521695,0,zero,TEACHER,PROFESSOR,N/A
+Civil Engineering,186,Case Western Reserve University,Robert,,Mullen,29228,21,poor,TEACHER,PROFESSOR,2.1
+Economics,186,Case Western Reserve University,Gary,,Murphy,280253,44,good,TEACHER,PROFESSOR,3.9
+Music,186,Case Western Reserve University,Lisa,,Musca,1108178,3,average,TEACHER,PROFESSOR,2.7
+Social Science,186,Case Western Reserve University,Crystal,,Myhre,2523750,0,zero,TEACHER,PROFESSOR,N/A
+Law,186,Case Western Reserve University,Dale,,Nance,351519,9,average,TEACHER,PROFESSOR,3.3
+Modern Languages,186,Case Western Reserve University,Jacqueline,,Nanfito,298285,9,good,TEACHER,PROFESSOR,4.5
+Social Science,186,Case Western Reserve University,Aravindhan,,Natarajan,1116391,1,poor,TEACHER,PROFESSOR,1.0
+Economics,186,Case Western Reserve University,Madina,,Ndefru,2167435,6,average,TEACHER,PROFESSOR,3.3
+Music,186,Case Western Reserve University,Richard,,Nelson,610106,6,good,TEACHER,PROFESSOR,4.2
+Music,186,Case Western Reserve University,Beth,,Nelson,831302,8,average,TEACHER,PROFESSOR,2.6
+Law,186,Case Western Reserve University,Spencer,,Neth,95809,12,average,TEACHER,PROFESSOR,2.8
+Religion,186,Case Western Reserve University,Judith,,Neulander,789523,12,good,TEACHER,PROFESSOR,4.5
+Biology,186,Case Western Reserve University,R. Sousa,,Neves,1655012,0,zero,TEACHER,PROFESSOR,N/A
+English,186,Case Western Reserve University,James,,Newlin,2295282,4,good,TEACHER,PROFESSOR,4.0
+Computer Science,186,Case Western Reserve University,Wyatt,,Newman,1431753,5,good,TEACHER,PROFESSOR,4.4
+Marketing,186,Case Western Reserve University,Casey,,Newmeyer,1711319,1,good,TEACHER,PROFESSOR,5.0
+Geology,186,Case Western Reserve University,Taylor,,Nguyen,1882458,2,average,TEACHER,PROFESSOR,3.0
+History,186,Case Western Reserve University,Lisa,,Nielson,1810425,9,good,TEACHER,PROFESSOR,4.8
+Nursing,186,Case Western Reserve University,Colleen,,Nikstenas,2430012,2,good,TEACHER,PROFESSOR,4.0
+Mathematics,186,Case Western Reserve University,Benjamin,,Nil,1654027,1,average,TEACHER,PROFESSOR,3.0
+Mathematics,186,Case Western Reserve University,Benjamin,,Nill,1654025,3,good,TEACHER,PROFESSOR,4.7
+Management,186,Case Western Reserve University,Jie,,Ning,2444807,2,good,TEACHER,PROFESSOR,3.5
+Communication Sciences,186,Case Western Reserve University,Jean,,Nisenboum,517035,7,good,TEACHER,PROFESSOR,4.4
+Modern Languages,186,Case Western Reserve University,Yukiko,,Nishida,2345408,1,good,TEACHER,PROFESSOR,4.0
+Epidemiology,186,Case Western Reserve University,Nora,,Nock,2039637,0,zero,TEACHER,PROFESSOR,N/A
+Social Work,186,Case Western Reserve University,marissa,,Norden,2061456,0,zero,TEACHER,PROFESSOR,N/A
+Mathematics,186,Case Western Reserve University,Emily,,Norton,1906390,1,average,TEACHER,PROFESSOR,3.0
+Modern Languages,186,Case Western Reserve University,Keri,,November,2342281,1,good,TEACHER,PROFESSOR,5.0
+Nutrition,186,Case Western Reserve University,Noa,,Noy,1835262,0,zero,TEACHER,PROFESSOR,N/A
+Physical Education,186,Case Western Reserve University,Erin,,O'Neill,1253098,1,good,TEACHER,PROFESSOR,4.0
+Cognitive Science,186,Case Western Reserve University,Todd,,Oakley,34707,17,good,TEACHER,PROFESSOR,3.5
+Psychology,186,Case Western Reserve University,Rita,,Obeid,2410692,10,good,TEACHER,PROFESSOR,5.0
+English,186,Case Western Reserve University,Glenn,,Odenbrett,1060921,4,poor,TEACHER,PROFESSOR,2.3
+Mathematics,186,Case Western Reserve University,Isaac,,Oduro,2306795,2,average,TEACHER,PROFESSOR,3.0
+General Education,186,Case Western Reserve University,Susan,,Oehler,990892,2,average,TEACHER,PROFESSOR,2.5
+Education,186,Case Western Reserve University,Erika,,Olbricht,1767864,7,average,TEACHER,PROFESSOR,2.5
+Art,186,Case Western Reserve University,Maria,,Oldenburg,2234912,2,good,TEACHER,PROFESSOR,5.0
+Biology,186,Case Western Reserve University,Ronald,,Oldfield,1997412,5,good,TEACHER,PROFESSOR,4.6
+Computer Science,186,Case Western Reserve University,Daniel,,Oldham,796230,29,poor,TEACHER,PROFESSOR,2.4
+Modern Languages,186,Case Western Reserve University,Nana,,Onishi,2129587,0,zero,TEACHER,PROFESSOR,N/A
+Management,186,Case Western Reserve University,Ellen,Van,Oosten,2221267,2,good,TEACHER,PROFESSOR,5.0
+Statistics,186,Case Western Reserve University,Amy,,Orendi,293444,3,good,TEACHER,PROFESSOR,3.5
+Theatre & Dance,186,Case Western Reserve University,John,,Orlock,73165,18,good,TEACHER,PROFESSOR,4.0
+Engineering,186,Case Western Reserve University,Peter,,Orner,2351053,0,zero,TEACHER,PROFESSOR,N/A
+Management,186,Case Western Reserve University,Richard,,Osborne,1230353,8,good,TEACHER,PROFESSOR,5.0
+Computer Science,186,Case Western Reserve University,Ryan,,Oshinsky,2232702,4,good,TEACHER,PROFESSOR,5.0
+Economics,186,Case Western Reserve University,Glenda,,Oskar,2321563,9,good,TEACHER,PROFESSOR,3.5
+Mathematics,186,Case Western Reserve University,Andrew,,Oster,1758286,5,poor,TEACHER,PROFESSOR,1.1
+English,186,Case Western Reserve University,Judith,,Oster,491201,5,average,TEACHER,PROFESSOR,3.0
+Mechanical Engineering,186,Case Western Reserve University,Simon,,Ostrach,1499760,1,poor,TEACHER,PROFESSOR,1.5
+Sociology,186,Case Western Reserve University,Bernard,,Ott,1176114,0,zero,TEACHER,PROFESSOR,N/A
+Psychology,186,Case Western Reserve University,James,,Overholser,1270192,8,average,TEACHER,PROFESSOR,3.2
+Computer Science,186,Case Western Reserve University,Gultekin,,Ozsoyoglu,16820,44,average,TEACHER,PROFESSOR,2.7
+Computer Science,186,Case Western Reserve University,Z. Meral,,Ozsoyoglu,16832,30,average,TEACHER,PROFESSOR,2.5
+Education,186,Case Western Reserve University,Jose,,Padin,1171784,0,zero,TEACHER,PROFESSOR,N/A
+Mathematics,186,Case Western Reserve University,Charles,,Pairan,1307693,1,good,TEACHER,PROFESSOR,5.0
+Electrical Engineering,186,Case Western Reserve University,Christos,,Papachristou,33548,20,poor,TEACHER,PROFESSOR,2.3
+Accounting,186,Case Western Reserve University,Larry,,Parker,79959,10,good,TEACHER,PROFESSOR,3.5
+English,186,Case Western Reserve University,Michael,,Parker,1456001,32,average,TEACHER,PROFESSOR,3.5
+English,186,Case Western Reserve University,Gabrielle,,Parkin,1958237,7,good,TEACHER,PROFESSOR,4.9
+Cognitive Science,186,Case Western Reserve University,Fey,,Parrill,983362,30,good,TEACHER,PROFESSOR,4.3
+Political Science,186,Case Western Reserve University,Girma,,Parris,2374387,6,good,TEACHER,PROFESSOR,4.5
+Modern Languages,186,Case Western Reserve University,Alessandra,,Parry,2419359,6,good,TEACHER,PROFESSOR,5.0
+Nursing,186,Case Western Reserve University,Kyle,,Patchen,2391472,1,good,TEACHER,PROFESSOR,5.0
+Chemistry,186,Case Western Reserve University,Anthony,,Pearson,22922,40,good,TEACHER,PROFESSOR,3.8
+English,186,Case Western Reserve University,Annie,,Pecastaings,1188533,15,good,TEACHER,PROFESSOR,3.5
+Management,186,Case Western Reserve University,Simon,,Peck,1171568,2,good,TEACHER,PROFESSOR,3.8
+English,186,Case Western Reserve University,Mark,,Pedretti,1359404,12,good,TEACHER,PROFESSOR,4.5
+Art History,186,Case Western Reserve University,John,,Peffer,993678,6,average,TEACHER,PROFESSOR,3.0
+Art Education,186,Case Western Reserve University,Christopher,,Pekoc,387258,13,poor,TEACHER,PROFESSOR,2.3
+Chemistry,186,Case Western Reserve University,Emily,,Pentzer,1839814,18,good,TEACHER,PROFESSOR,3.8
+Sociology,186,Case Western Reserve University,Adam,,Perzynski,1362660,2,good,TEACHER,PROFESSOR,4.8
+Music,186,Case Western Reserve University,Micheal,,Peters,2429311,0,zero,TEACHER,PROFESSOR,N/A
+Music,186,Case Western Reserve University,Michael,,Peters,2437071,1,poor,TEACHER,PROFESSOR,2.0
+Biology,186,Case Western Reserve University,Sheryl,,Petersen,1471168,0,zero,TEACHER,PROFESSOR,N/A
+Medicine,186,Case Western Reserve University,Hilary,,Petersen,2343036,0,zero,TEACHER,PROFESSOR,N/A
+Physics,186,Case Western Reserve University,Rolfe,,Petschek,640241,5,average,TEACHER,PROFESSOR,3.0
+Organizational Behavior,186,Case Western Reserve University,Kristin,,Piderit,924249,3,good,TEACHER,PROFESSOR,4.3
+English,186,Case Western Reserve University,Steve,,Pinkerton,2356747,5,good,TEACHER,PROFESSOR,5.0
+Chemical Engineering,186,Case Western Reserve University,Peter,,Pintauro,948458,0,zero,TEACHER,PROFESSOR,N/A
+Materials Science,186,Case Western Reserve University,Pirouz,,Pirouz,483465,4,poor,TEACHER,PROFESSOR,2.0
+Sociology,186,Case Western Reserve University,Cassi,,Pittman,1994700,4,good,TEACHER,PROFESSOR,3.8
+Philosophy,186,Case Western Reserve University,Jerry,,Piven,801066,23,good,TEACHER,PROFESSOR,4.1
+Arts  Sciences,186,Case Western Reserve University,Fabienne,,Pizot-Haymore,2060357,1,good,TEACHER,PROFESSOR,5.0
+Computer Science,186,Case Western Reserve University,Andrew,,Plassard,2471862,1,good,TEACHER,PROFESSOR,5.0
+Nutrition,186,Case Western Reserve University,Lisa,,Plungas,1778905,1,good,TEACHER,PROFESSOR,5.0
+Computer Science,186,Case Western Reserve University,H. Andy,,Podgurski,16730,38,average,TEACHER,PROFESSOR,3.0
+Civil Engineering,186,Case Western Reserve University,Michael,,Pollino,1710320,11,average,TEACHER,PROFESSOR,3.0
+English,186,Case Western Reserve University,Melissa,,Pompili,2413350,1,good,TEACHER,PROFESSOR,5.0
+Art History,186,Case Western Reserve University,Maggie,,Popkin,1839651,8,average,TEACHER,PROFESSOR,3.5
+Cognitive Science,186,Case Western Reserve University,Yanna,,Popova,983351,10,good,TEACHER,PROFESSOR,3.8
+Political Science,186,Case Western Reserve University,Elliot,,Posner,901830,8,good,TEACHER,PROFESSOR,3.9
+Social Work,186,Case Western Reserve University,Bradley,,Powell,2006221,6,average,TEACHER,PROFESSOR,3.1
+Mechanical Engineering,186,Case Western Reserve University,Joseph,,Prahl,88597,21,average,TEACHER,PROFESSOR,2.9
+Mechanical Engineering,186,Case Western Reserve University,Vikas,,Prakash,27972,9,average,TEACHER,PROFESSOR,2.9
+Mathematics,186,Case Western Reserve University,Upendra,,Prasad,1492217,11,good,TEACHER,PROFESSOR,3.9
+Accounting,186,Case Western Reserve University,Gary,,Previts,855970,2,good,TEACHER,PROFESSOR,5.0
+Economics,186,Case Western Reserve University,Silvia,,Prina,1497533,17,average,TEACHER,PROFESSOR,3.4
+Writing,186,Case Western Reserve University,Maryjo,,Prince-Paul,2362596,0,zero,TEACHER,PROFESSOR,N/A
+Nursing,186,Case Western Reserve University,Mary Jo,,Prince-Paul,2215050,4,average,TEACHER,PROFESSOR,3.0
+Philosophy,186,Case Western Reserve University,Patricia,,Princehouse,21912,23,average,TEACHER,PROFESSOR,3.2
+Communication,186,Case Western Reserve University,Shirley,,Prok,32906,8,average,TEACHER,PROFESSOR,3.4
+Chemistry,186,Case Western Reserve University,John,,Protasiewicz,75379,3,good,TEACHER,PROFESSOR,3.5
+Psychology,186,Case Western Reserve University,Amy,,Przeworski,1549539,11,good,TEACHER,PROFESSOR,4.3
+Modern Languages,186,Case Western Reserve University,Damaris,,Puñales Alpizar,2079380,1,good,TEACHER,PROFESSOR,4.0
+Modern Languages,186,Case Western Reserve University,Damaris ,,Punales- Alpizar,2077704,1,good,TEACHER,PROFESSOR,5.0
+Biochemistry,186,Case Western Reserve University,Marianne,,Pusztai-Carey,2356640,2,good,TEACHER,PROFESSOR,4.5
+Accounting,186,Case Western Reserve University,Jon,,Pyzoha,1946610,3,average,TEACHER,PROFESSOR,3.3
+Mechanical Engineering,186,Case Western Reserve University,Roger,,Quinn,25894,16,good,TEACHER,PROFESSOR,3.9
+Chemical Engineering,186,Case Western Reserve University,Syed,,Qutubuddin,801561,2,good,TEACHER,PROFESSOR,4.5
+Computer Science,186,Case Western Reserve University,Michael,,Rabinovich,846287,27,good,TEACHER,PROFESSOR,4.0
+History,186,Case Western Reserve University,Einav,,Rabinovitch-Fox,2382748,1,good,TEACHER,PROFESSOR,5.0
+Art History,186,Case Western Reserve University,Andrea,,Rager,2000393,5,good,TEACHER,PROFESSOR,4.1
+Physics,186,Case Western Reserve University,Sri,,Rahm,634397,8,good,TEACHER,PROFESSOR,3.7
+Music,186,Case Western Reserve University,Lisa,,Rainsong,629274,8,good,TEACHER,PROFESSOR,5.0
+Medicine,186,Case Western Reserve University,Parameswaran,,Ramakrishnan,2282348,2,good,TEACHER,PROFESSOR,5.0
+Nutrition,186,Case Western Reserve University,Tamara ,,Randall,2001144,2,good,TEACHER,PROFESSOR,5.0
+Finance,186,Case Western Reserve University,Amra,,Rausche,2232853,1,good,TEACHER,PROFESSOR,4.0
+Computer Science,186,Case Western Reserve University,Soumya,,Ray,1868954,21,good,TEACHER,PROFESSOR,4.2
+English,186,Case Western Reserve University,Luke,,Reader,2198179,8,good,TEACHER,PROFESSOR,4.7
+Economics,186,Case Western Reserve University,James,,Rebitzer,1249996,2,poor,TEACHER,PROFESSOR,2.2
+Mathematics,186,Case Western Reserve University,Jessica,,Redmon,2230544,0,zero,TEACHER,PROFESSOR,N/A
+Anthropology,186,Case Western Reserve University,Marianne,,Reeves,821049,10,good,TEACHER,PROFESSOR,4.8
+Chemical Engineering,186,Case Western Reserve University,Julie,,Renner,2172853,0,zero,TEACHER,PROFESSOR,N/A
+Civil Engineering,186,Case Western Reserve University,Kurt,,Rhoads,2110441,6,average,TEACHER,PROFESSOR,3.3
+Modern Languages,186,Case Western Reserve University,Margarita,,Ribar,1182792,0,zero,TEACHER,PROFESSOR,N/A
+English,186,Case Western Reserve University,Bradley,,Ricca,337137,38,good,TEACHER,PROFESSOR,4.7
+Management,186,Case Western Reserve University,Bonnie,,Richley,1689567,1,good,TEACHER,PROFESSOR,5.0
+Biology,186,Case Western Reserve University,Arne,,Rietsch,2192395,0,zero,TEACHER,PROFESSOR,N/A
+Mechanical Engineering,186,Case Western Reserve University,Clare,,Rimnac,582267,3,poor,TEACHER,PROFESSOR,2.3
+Finance,186,Case Western Reserve University,Peter,,Ritchken,1116051,4,good,TEACHER,PROFESSOR,4.2
+Biology,186,Case Western Reserve University,Roy,,Ritzmann,16801,11,good,TEACHER,PROFESSOR,3.9
+Law,186,Case Western Reserve University,Cassandra,,Robertson,1132145,3,good,TEACHER,PROFESSOR,3.7
+Chemistry,186,Case Western Reserve University,Thomas,,Robilotto,1490442,2,good,TEACHER,PROFESSOR,3.8
+History,186,Case Western Reserve University,Alan,,Rocke,383751,10,good,TEACHER,PROFESSOR,4.3
+Not Specified,186,Case Western Reserve University,Kristen,,Rogers,1654158,2,average,TEACHER,PROFESSOR,2.8
+Nutrition,186,Case Western Reserve University,Catherine,,Rogers,2365303,4,good,TEACHER,PROFESSOR,4.5
+Biomedical Engineering,186,Case Western Reserve University,Andrew,,Rollins,483982,17,average,TEACHER,PROFESSOR,3.2
+Social Work,186,Case Western Reserve University,Richard,,Romaniuk,1734558,7,good,TEACHER,PROFESSOR,4.5
+Music,186,Case Western Reserve University,John,,Romey,2100591,2,good,TEACHER,PROFESSOR,3.8
+Dental,186,Case Western Reserve University,Renato,,Roperto,1944574,1,good,TEACHER,PROFESSOR,4.5
+Physics,186,Case Western Reserve University,Charles,,Rosenblatt,16516,25,average,TEACHER,PROFESSOR,3.2
+Music,186,Case Western Reserve University,David,,Rothenberg,745016,6,good,TEACHER,PROFESSOR,4.2
+Communication Sciences,186,Case Western Reserve University,F. Joseph,,Routman,26368,17,average,TEACHER,PROFESSOR,3.4
+English,186,Case Western Reserve University,Robert,M,Rowan,2342862,1,poor,TEACHER,PROFESSOR,1.0
+Economics,186,Case Western Reserve University,Heather,,Royer,933587,3,good,TEACHER,PROFESSOR,4.2
+Biology,186,Case Western Reserve University,Charles,,Rozek,294682,21,average,TEACHER,PROFESSOR,2.6
+Physics,186,Case Western Reserve University,John,,Ruhl,1365111,3,average,TEACHER,PROFESSOR,3.3
+Psychology,186,Case Western Reserve University,Donna,,Rumenik,2371279,2,poor,TEACHER,PROFESSOR,1.5
+History,186,Case Western Reserve University,Maddalena,,Rumor,2438035,2,good,TEACHER,PROFESSOR,4.5
+Music,186,Case Western Reserve University,Stephanie,,Ruozzo,2521620,1,poor,TEACHER,PROFESSOR,1.0
+Psychology,186,Case Western Reserve University,Sandra,,Russ,2069314,2,average,TEACHER,PROFESSOR,2.8
+English,186,Case Western Reserve University,Arthur,,Russell,2354991,8,good,TEACHER,PROFESSOR,5.0
+Psychology,186,Case Western Reserve University,Nina,,Rytwinski,1892330,3,good,TEACHER,PROFESSOR,4.8
+Electrical Engineering,186,Case Western Reserve University,Daniel,,Saab,75284,29,average,TEACHER,PROFESSOR,3.1
+Civil Engineering,186,Case Western Reserve University,Adel,,Saada,104094,9,average,TEACHER,PROFESSOR,2.5
+Organizational Behavior,186,Case Western Reserve University,Argun,,Saatcioglu,870049,2,average,TEACHER,PROFESSOR,3.0
+Sociology,186,Case Western Reserve University,Danielle,,Sabo,2066915,1,poor,TEACHER,PROFESSOR,1.0
+Mathematics,186,Case Western Reserve University,Silvia,,Saccon,2041686,14,poor,TEACHER,PROFESSOR,1.4
+Mathematics,186,Case Western Reserve University,Sylvia,,Saccon,2166624,0,zero,TEACHER,PROFESSOR,N/A
+Mathematics,186,Case Western Reserve University,Seyed,,Sadati,1163921,0,zero,TEACHER,PROFESSOR,N/A
+History,186,Case Western Reserve University,Jonathan,,Sadowsky,390773,17,good,TEACHER,PROFESSOR,4.4
+Medicine,186,Case Western Reserve University,Satya,,Sahoo,2206548,1,good,TEACHER,PROFESSOR,4.0
+Biomedical Engineering,186,Case Western Reserve University,Gerald,,Saidel,1574105,14,poor,TEACHER,PROFESSOR,1.6
+Operations Management,186,Case Western Reserve University,Harvey,,Salkin,629593,12,average,TEACHER,PROFESSOR,2.8
+Chemistry,186,Case Western Reserve University,Robert,,Salomon,16806,21,poor,TEACHER,PROFESSOR,1.9
+Writing,186,Case Western Reserve University,Helen,,Salz,2446649,0,zero,TEACHER,PROFESSOR,N/A
+Chemistry,186,Case Western Reserve University,Anna,,Samia,2256074,2,average,TEACHER,PROFESSOR,3.0
+Biochemistry,186,Case Western Reserve University,David,,Samols,611083,3,good,TEACHER,PROFESSOR,3.5
+English,186,Case Western Reserve University,Mike,,Sangiacomo,2338489,1,good,TEACHER,PROFESSOR,5.0
+Chemical Engineering,186,Case Western Reserve University,Ramanathan Mohan,,Sankaran,942551,20,good,TEACHER,PROFESSOR,4.1
+Arts & Sciences,186,Case Western Reserve University,Charlotte,,Sanpere,1881952,5,good,TEACHER,PROFESSOR,4.8
+Social Science,186,Case Western Reserve University,Anna Maria,,Santiago,1690073,1,good,TEACHER,PROFESSOR,3.5
+Communication Sciences,186,Case Western Reserve University,Sanydydaixh,,Sanydydaixh,1302126,0,zero,TEACHER,PROFESSOR,N/A
+Computer Science,186,Case Western Reserve University,Matthew,,Sargent,2523800,0,zero,TEACHER,PROFESSOR,N/A
+Religion,186,Case Western Reserve University,Deepak,,Sarma,526658,40,good,TEACHER,PROFESSOR,4.0
+Management,186,Case Western Reserve University,Mary,,Sasmaz,2479708,1,poor,TEACHER,PROFESSOR,2.0
+Chemistry,186,Case Western Reserve University,Genevieve,,Sauve,2219089,3,good,TEACHER,PROFESSOR,4.0
+Chemical Engineering,186,Case Western Reserve University,Robert F,,Savinell,1354744,4,poor,TEACHER,PROFESSOR,2.0
+Geology,186,Case Western Reserve University,Beverly,,Saylor,17087,13,average,TEACHER,PROFESSOR,3.3
+Art History,186,Case Western Reserve University,Catherine,,Scallen,244852,14,good,TEACHER,PROFESSOR,4.3
+English,186,Case Western Reserve University,Martha,W,Schaffer ,1948130,10,good,TEACHER,PROFESSOR,4.9
+Law,186,Case Western Reserve University,Michael,,Scharf,436681,14,average,TEACHER,PROFESSOR,3.2
+Accounting,186,Case Western Reserve University,Andrea,,Scheetz,1952396,1,good,TEACHER,PROFESSOR,3.5
+Music,186,Case Western Reserve University,Ryan,,Scherber,1982251,6,good,TEACHER,PROFESSOR,5.0
+Chemistry,186,Case Western Reserve University,Daniel,,Scherson,16796,14,poor,TEACHER,PROFESSOR,2.0
+English,186,Case Western Reserve University,Brandy,,Schillace,510552,13,good,TEACHER,PROFESSOR,4.0
+MacRomolecular Science & Eng,186,Case Western Reserve University,David,,Schiraldi,896710,75,average,TEACHER,PROFESSOR,3.2
+Epidemiology,186,Case Western Reserve University,Mark,,Schluchter,2142002,0,zero,TEACHER,PROFESSOR,N/A
+Nutrition,186,Case Western Reserve University,Bonnie,,Schmidt-Hayes,2086933,10,good,TEACHER,PROFESSOR,4.3
+Physical Education,186,Case Western Reserve University,Eric,,Schmuhl,1946350,2,good,TEACHER,PROFESSOR,5.0
+Sociology,186,Case Western Reserve University,Christine,,Schneider,1235336,2,good,TEACHER,PROFESSOR,5.0
+Political Science,186,Case Western Reserve University,Paul,,Schroeder,1253099,16,good,TEACHER,PROFESSOR,4.3
+Mathematics,186,Case Western Reserve University,Bradley,,Seadler,1356906,6,average,TEACHER,PROFESSOR,3.2
+Electrical Engineering,186,Case Western Reserve University,Larry,,Sears,1328414,5,good,TEACHER,PROFESSOR,4.7
+Electrical Engineering,186,Case Western Reserve University,Lawrence,,Sears,1404666,0,zero,TEACHER,PROFESSOR,N/A
+Chemistry,186,Case Western Reserve University,Alp,,Sehirlioglu,2478527,0,zero,TEACHER,PROFESSOR,N/A
+Materials Science,186,Case Western Reserve University,Alp,,Sehirlioglu,2210448,33,average,TEACHER,PROFESSOR,3.0
+Biomedical Engineering,186,Case Western Reserve University,Nicole,,Seiberlich,1996601,0,zero,TEACHER,PROFESSOR,N/A
+Mathematics,186,Case Western Reserve University,Elizabeth,,Sell,1939133,29,good,TEACHER,PROFESSOR,5.0
+Accounting,186,Case Western Reserve University,Drew,,Sellers,1409609,1,good,TEACHER,PROFESSOR,5.0
+Biomedical Engineering,186,Case Western Reserve University,Anirban,,Sen Gupta,1509392,8,good,TEACHER,PROFESSOR,4.5
+History,186,Case Western Reserve University,Renee,,Sentilles,37092,22,good,TEACHER,PROFESSOR,3.6
+Biomedical Engineering,186,Case Western Reserve University,Sam,,Senyo,2380029,2,good,TEACHER,PROFESSOR,4.0
+Nursing,186,Case Western Reserve University,Rita,,Sfiligoj,1640468,3,average,TEACHER,PROFESSOR,2.7
+Anthropology,186,Case Western Reserve University,Jim,,Shaffer,814069,8,average,TEACHER,PROFESSOR,3.4
+Physics,186,Case Western Reserve University,Jie,,Shan,1426406,9,poor,TEACHER,PROFESSOR,1.8
+Economics,186,Case Western Reserve University,Scott,,Shane,820053,10,good,TEACHER,PROFESSOR,3.8
+English,186,Case Western Reserve University,James,,Sheeler,1629418,7,good,TEACHER,PROFESSOR,4.5
+Law,186,Case Western Reserve University,Lori,,Shellenberger,1173704,0,zero,TEACHER,PROFESSOR,N/A
+Economics,186,Case Western Reserve University,Roman,,Sheremeta,1898712,16,good,TEACHER,PROFESSOR,4.7
+Anthropology,186,Case Western Reserve University,Lihong,,Shi,2101995,7,good,TEACHER,PROFESSOR,4.4
+Nutrition,186,Case Western Reserve University,Najeebah,,Shine,2514078,1,poor,TEACHER,PROFESSOR,1.0
+Materials Science,186,Case Western Reserve University,Martin,,Shingler,833965,2,average,TEACHER,PROFESSOR,3.0
+MacRomolecular Science & Eng,186,Case Western Reserve University,David,,Shiraldi,923661,8,average,TEACHER,PROFESSOR,3.1
+Economics,186,Case Western Reserve University,Daniel,,Shoag,2291844,16,good,TEACHER,PROFESSOR,4.2
+Biochemistry,186,Case Western Reserve University,Menachem,,Shoham,2161219,0,zero,TEACHER,PROFESSOR,N/A
+Psychology,186,Case Western Reserve University,Elizabeth,,Short,307393,28,good,TEACHER,PROFESSOR,4.5
+Art Education,186,Case Western Reserve University,Tim,,Shuckerow,196276,5,average,TEACHER,PROFESSOR,2.5
+History,186,Case Western Reserve University,Peter,,Shulman,1231151,11,good,TEACHER,PROFESSOR,4.0
+Music,186,Case Western Reserve University,Irwin,,Shung,2305629,0,zero,TEACHER,PROFESSOR,N/A
+Physics,186,Case Western Reserve University,Thomas,,Shutt,936987,5,good,TEACHER,PROFESSOR,3.6
+Economics,186,Case Western Reserve University,Ayman,,Shwayyat,1173759,0,zero,TEACHER,PROFESSOR,N/A
+Computer Science,186,Case Western Reserve University,Sadida,,Siddiqui,2513843,1,poor,TEACHER,PROFESSOR,1.0
+Sociology,186,Case Western Reserve University,Rebecca,,Siders,1391785,3,average,TEACHER,PROFESSOR,3.3
+Statistics,186,Case Western Reserve University,Stephen,,Sidik,1563372,14,average,TEACHER,PROFESSOR,2.9
+English,186,Case Western Reserve University,William,,Siebenschuh,16726,16,good,TEACHER,PROFESSOR,4.4
+Medicine,186,Case Western Reserve University,Scott,,Sieg,2192398,0,zero,TEACHER,PROFESSOR,N/A
+Finance,186,Case Western Reserve University,J. B.,,Silvers,375736,2,good,TEACHER,PROFESSOR,4.0
+Chemistry,186,Case Western Reserve University,Regan,,Silvestri,1061470,2,good,TEACHER,PROFESSOR,4.2
+Presidential Fellows,186,Case Western Reserve University,Andrea,,Simakis,921785,8,good,TEACHER,PROFESSOR,5.0
+English,186,Case Western Reserve University,Judit,,Simo,1433513,1,good,TEACHER,PROFESSOR,4.0
+Statistics,186,Case Western Reserve University,Brad,,Simonelli,2196129,4,good,TEACHER,PROFESSOR,4.0
+Chemistry,186,Case Western Reserve University,M. Cather,,Simpson,16790,35,good,TEACHER,PROFESSOR,3.7
+Biology,186,Case Western Reserve University,Scott,,Simpson,1146749,3,good,TEACHER,PROFESSOR,5.0
+Art,186,Case Western Reserve University,Mary Jo,,Sinclair,1787639,0,zero,TEACHER,PROFESSOR,N/A
+Social Science,186,Case Western Reserve University,Patricia,,Sinclair,2258237,1,average,TEACHER,PROFESSOR,3.0
+Physics,186,Case Western Reserve University,Kenneth,,Singer,948617,0,zero,TEACHER,PROFESSOR,N/A
+Statistics,186,Case Western Reserve University,Mendel,,Singer,2336454,0,zero,TEACHER,PROFESSOR,N/A
+Mathematics,186,Case Western Reserve University,David,,Singer,17589,38,good,TEACHER,PROFESSOR,4.7
+Finance,186,Case Western Reserve University,Ajai,,Singh,840613,4,good,TEACHER,PROFESSOR,4.1
+Marketing,186,Case Western Reserve University,Jagdip,,Singh,1565162,4,average,TEACHER,PROFESSOR,3.1
+English,186,Case Western Reserve University,Jessica,,Slentz,1795597,1,good,TEACHER,PROFESSOR,5.0
+Sociology,186,Case Western Reserve University,Michael,R.,Slone,2293958,5,good,TEACHER,PROFESSOR,4.6
+Mathematics,186,Case Western Reserve University,Bernard,,Smith,1199417,0,zero,TEACHER,PROFESSOR,N/A
+Information Systems,186,Case Western Reserve University,Ann,,Smith,1710518,1,poor,TEACHER,PROFESSOR,2.0
+Anthropology,186,Case Western Reserve University,Richard,,Smith,2141764,5,good,TEACHER,PROFESSOR,4.2
+Sociology,186,Case Western Reserve University,Alicia,,Smith-Tran,2223180,2,good,TEACHER,PROFESSOR,4.0
+Biochemistry,186,Case Western Reserve University,Martin,,Snider,1224567,6,average,TEACHER,PROFESSOR,3.3
+Economics,186,Case Western Reserve University,Mark,,Sniderman,2071961,7,average,TEACHER,PROFESSOR,2.8
+Biology,186,Case Western Reserve University,Robin,,Snyder,1001721,9,good,TEACHER,PROFESSOR,4.0
+Social Work,186,Case Western Reserve University,Robert,,Soffer,2255802,0,zero,TEACHER,PROFESSOR,N/A
+Marketing,186,Case Western Reserve University,Walt,,Sokira,982146,41,good,TEACHER,PROFESSOR,4.3
+Philosophy,186,Case Western Reserve University,Tibor,,Solymosi,2435262,3,good,TEACHER,PROFESSOR,4.7
+Mathematics,186,Case Western Reserve University,Erkki,,Somersalo,1373204,10,good,TEACHER,PROFESSOR,3.8
+Statistics,186,Case Western Reserve University,Danhong,,Song,417324,29,good,TEACHER,PROFESSOR,4.3
+English,186,Case Western Reserve University,Robert,,Spadoni,604825,39,good,TEACHER,PROFESSOR,4.6
+Management,186,Case Western Reserve University,Robert,,Spechalske,1378579,1,average,TEACHER,PROFESSOR,3.0
+Electrical Engineering,186,Case Western Reserve University,Sree,,Sreenath,1770841,5,average,TEACHER,PROFESSOR,3.3
+Chemistry,186,Case Western Reserve University,Rekha,,Srinivasan,761267,79,good,TEACHER,PROFESSOR,4.0
+Music,186,Case Western Reserve University,Kelly,,St. Pierre,1871263,2,good,TEACHER,PROFESSOR,4.5
+Law,186,Case Western Reserve University,Forrest,,Stanley,2324763,0,zero,TEACHER,PROFESSOR,N/A
+Music,186,Case Western Reserve University,Nathan,,Stark,1565888,1,good,TEACHER,PROFESSOR,5.0
+Physics,186,Case Western Reserve University,Glenn,,Starkman,17599,38,good,TEACHER,PROFESSOR,3.6
+Biochemistry,186,Case Western Reserve University,Edward,,Stavnezer,429593,7,poor,TEACHER,PROFESSOR,1.7
+History,186,Case Western Reserve University,Theodore,,Steinberg,49249,17,average,TEACHER,PROFESSOR,3.0
+Management,186,Case Western Reserve University,John,,Stephens,1478964,8,good,TEACHER,PROFESSOR,4.4
+Philosophy,186,Case Western Reserve University,Jeffrey,,Stephenson,1061467,9,good,TEACHER,PROFESSOR,4.4
+Art,186,Case Western Reserve University,Robert,,Sterk,1787638,1,good,TEACHER,PROFESSOR,5.0
+Classics,186,Case Western Reserve University,Rachel,,Sternberg,765649,11,average,TEACHER,PROFESSOR,3.2
+Theatre & Dance,186,Case Western Reserve University,Shannon,,Sterne,1210997,5,good,TEACHER,PROFESSOR,3.5
+Art,186,Case Western Reserve University,Amy,,Stevens,1189103,0,zero,TEACHER,PROFESSOR,N/A
+Sociology,186,Case Western Reserve University,Mary Ellen (ellie),,Stone,1710369,3,good,TEACHER,PROFESSOR,4.5
+Theatre  Dance,186,Case Western Reserve University,Rachel,,Stoneking,2012548,2,poor,TEACHER,PROFESSOR,2.3
+English,186,Case Western Reserve University,Gary,,Stonum,536404,7,average,TEACHER,PROFESSOR,3.0
+Physics,186,Case Western Reserve University,Giuseppe,,Strangi,1801385,14,good,TEACHER,PROFESSOR,4.5
+Law,186,Case Western Reserve University,Robert,,Strassfeld,591680,13,average,TEACHER,PROFESSOR,3.2
+English,186,Case Western Reserve University,Christopher,,Strathman,1367185,2,poor,TEACHER,PROFESSOR,2.2
+Psychology,186,Case Western Reserve University,Milton,,Strauss,857585,1,poor,TEACHER,PROFESSOR,1.0
+Social Science,186,Case Western Reserve University,Gerald,,Strom,137489,4,good,TEACHER,PROFESSOR,4.6
+Mathematics,186,Case Western Reserve University,Wanda,,Strychalski,1864583,29,good,TEACHER,PROFESSOR,4.3
+Chemistry,186,Case Western Reserve University,John,,Stuehr,600762,15,average,TEACHER,PROFESSOR,3.2
+Chemistry,186,Case Western Reserve University,Benjamin,Benji,Sturtz,2519076,0,zero,TEACHER,PROFESSOR,N/A
+Statistics,186,Case Western Reserve University,Jiayang,,Sun,112694,7,poor,TEACHER,PROFESSOR,2.3
+Computer Science,186,Case Western Reserve University,Xiaowei,,Sun,1071642,18,average,TEACHER,PROFESSOR,3.1
+Geology,186,Case Western Reserve University,Nicholas,A,Sutfin,2476974,1,good,TEACHER,PROFESSOR,4.0
+Nutrition,186,Case Western Reserve University,James,,Swain,597737,15,good,TEACHER,PROFESSOR,4.7
+Mathematics,186,Case Western Reserve University,Stanislaw,,Szarek,321409,12,good,TEACHER,PROFESSOR,3.8
+Mechanical Engineering,186,Case Western Reserve University,James,,T'Ien,1670736,4,good,TEACHER,PROFESSOR,4.0
+Electrical Engineering,186,Case Western Reserve University,Massood,,Tabib-Azar,88502,12,good,TEACHER,PROFESSOR,4.0
+Mathematics,186,Case Western Reserve University,Kyle,,Taljan,2455417,4,good,TEACHER,PROFESSOR,5.0
+Economics,186,Case Western Reserve University,Ayhan,,Talu,17318,56,average,TEACHER,PROFESSOR,3.0
+Philosophy,186,Case Western Reserve University,Shi,,Tang,2128880,2,average,TEACHER,PROFESSOR,3.0
+Political Science,186,Case Western Reserve University,Laura,,Tartakoff,175259,23,good,TEACHER,PROFESSOR,3.8
+Art,186,Case Western Reserve University,Barney,,Taxel,1995250,1,good,TEACHER,PROFESSOR,4.0
+Biomedical Engineering,186,Case Western Reserve University,Dawn,,Taylor,705367,13,poor,TEACHER,PROFESSOR,2.4
+Physics,186,Case Western Reserve University,Philip,,Taylor,2016737,7,good,TEACHER,PROFESSOR,4.1
+Chemistry,186,Case Western Reserve University,Johnathan,,Tedesco,1206955,17,good,TEACHER,PROFESSOR,3.9
+Dental,186,Case Western Reserve University,Sorin,,Teich,1472836,0,zero,TEACHER,PROFESSOR,N/A
+Law,186,Case Western Reserve University,Theodore,,Theofrastous,1987920,0,zero,TEACHER,PROFESSOR,N/A
+Anthropology,186,Case Western Reserve University,Sara,,Thiam,2292443,5,poor,TEACHER,PROFESSOR,2.2
+English,186,Case Western Reserve University,Brita,M,Thielen,2437393,1,good,TEACHER,PROFESSOR,5.0
+English,186,Case Western Reserve University,Derek,,Thiess,1409649,1,good,TEACHER,PROFESSOR,5.0
+Mathematics,186,Case Western Reserve University,Peter,,Thomas,935633,24,average,TEACHER,PROFESSOR,2.7
+Management,186,Case Western Reserve University,Njoke,,Thomas,2002000,1,good,TEACHER,PROFESSOR,5.0
+Finance,186,Case Western Reserve University,Sam,,Thomas,870864,5,good,TEACHER,PROFESSOR,4.3
+Psychology,186,Case Western Reserve University,Lee,,Thompson,16818,38,good,TEACHER,PROFESSOR,4.1
+Management,186,Case Western Reserve University,Phillip,,Thompson,2316507,1,good,TEACHER,PROFESSOR,5.0
+Cognitive Science,186,Case Western Reserve University,Vera,,Tobin,1415128,13,good,TEACHER,PROFESSOR,3.6
+Chemistry,186,Case Western Reserve University,Gregory,,Tochtrop,1206959,12,good,TEACHER,PROFESSOR,4.5
+History,186,Case Western Reserve University,Elizabeth,,Todd,16721,11,average,TEACHER,PROFESSOR,2.6
+Modern Languages,186,Case Western Reserve University,Yuki,,Togawa,2193194,4,good,TEACHER,PROFESSOR,5.0
+Chemistry,186,Case Western Reserve University,Blanton,,Tolbert,1948316,5,average,TEACHER,PROFESSOR,3.3
+Modern Languages,186,Case Western Reserve University,Cheryl,,Toman,1861603,5,good,TEACHER,PROFESSOR,4.3
+Music,186,Case Western Reserve University,Sarah,,Tomasewski,1409629,2,good,TEACHER,PROFESSOR,4.0
+Social Science,186,Case Western Reserve University,Aloen,,Townsend,1690070,0,zero,TEACHER,PROFESSOR,N/A
+Social Science,186,Case Western Reserve University,Elizabeth,,Tracy,137493,3,good,TEACHER,PROFESSOR,4.0
+Management,186,Case Western Reserve University,Mai,,Trinh,1925689,1,good,TEACHER,PROFESSOR,5.0
+English,186,Case Western Reserve University,Penny,,Tucker,1502073,0,zero,TEACHER,PROFESSOR,N/A
+Cognitive Science,186,Case Western Reserve University,Mark,,Turner,1069318,9,good,TEACHER,PROFESSOR,3.7
+Biomedical Engineering,186,Case Western Reserve University,Dustin,,Tyler,1079211,6,average,TEACHER,PROFESSOR,2.9
+Theatre & Dance,186,Case Western Reserve University,J.,,Ullom,1223013,7,good,TEACHER,PROFESSOR,3.9
+English,186,Case Western Reserve University,Thrity,,Umrigar,161084,13,good,TEACHER,PROFESSOR,3.5
+Biochemistry,186,Case Western Reserve University,Focco,,van den Akker,2161217,0,zero,TEACHER,PROFESSOR,N/A
+Philosophy,186,Case Western Reserve University,Anne,,Van Leeuwen,1796087,3,good,TEACHER,PROFESSOR,4.8
+Geology,186,Case Western Reserve University,James,,Van Orman,934652,8,good,TEACHER,PROFESSOR,4.2
+Nursing,186,Case Western Reserve University,Mary,,Variath,2096046,5,good,TEACHER,PROFESSOR,4.6
+Modern Languages,186,Case Western Reserve University,Susanne,,Vees-Gulani,901345,6,good,TEACHER,PROFESSOR,3.9
+Theatre  Dance,186,Case Western Reserve University,David,,Vegh,2272214,0,zero,TEACHER,PROFESSOR,N/A
+Statistics,186,Case Western Reserve University,Prahalad,,Venkateshan,2251784,3,average,TEACHER,PROFESSOR,3.0
+Not Specified,186,Case Western Reserve University,George,,Veras,1672852,0,zero,TEACHER,PROFESSOR,N/A
+Communication Sciences,186,Case Western Reserve University,Jennell,,Vick,1666476,2,good,TEACHER,PROFESSOR,3.8
+English,186,Case Western Reserve University,Magdalena,,Vinter,2132462,2,good,TEACHER,PROFESSOR,5.0
+Chemistry,186,Case Western Reserve University,Rajesh,,Viswanathan,1662329,8,average,TEACHER,PROFESSOR,3.0
+Social Science,186,Case Western Reserve University,Laura,,Voith,2258244,1,average,TEACHER,PROFESSOR,3.0
+Biomedical Engineering,186,Case Western Reserve University,Horst,,Von Recum,801570,4,good,TEACHER,PROFESSOR,4.6
+Economics,186,Case Western Reserve University,Mark,,Votruba,321042,14,good,TEACHER,PROFESSOR,3.8
+English,186,Case Western Reserve University,Athena,,Vrettos,26371,13,good,TEACHER,PROFESSOR,4.6
+Political Science,186,Case Western Reserve University,Michael,,Wager,2375345,2,good,TEACHER,PROFESSOR,5.0
+Chemical Engineering,186,Case Western Reserve University,Jesse,S,Wainright,2105853,3,good,TEACHER,PROFESSOR,3.7
+Biology,186,Case Western Reserve University,Hillary,,Walton,1616318,4,average,TEACHER,PROFESSOR,3.2
+Biochemistry,186,Case Western Reserve University,Susan,,Wang,2291123,1,good,TEACHER,PROFESSOR,4.0
+Finance,186,Case Western Reserve University,Li,,Wang,2305082,3,good,TEACHER,PROFESSOR,4.7
+Computer Science,186,Case Western Reserve University,An,,Wang,2425127,5,good,TEACHER,PROFESSOR,5.0
+English,186,Case Western Reserve University,Joshua,,Ware,1932940,2,average,TEACHER,PROFESSOR,3.0
+Sociology,186,Case Western Reserve University,David,,Warner,1077495,2,good,TEACHER,PROFESSOR,5.0
+Nursing,186,Case Western Reserve University,Camille,,Warner,1948135,4,good,TEACHER,PROFESSOR,5.0
+English,186,Case Western Reserve University,Raymond,,Watkins,1045853,9,good,TEACHER,PROFESSOR,4.6
+Nutrition,186,Case Western Reserve University,Rosanna,,Watowicz,2488521,2,good,TEACHER,PROFESSOR,5.0
+Nursing,186,Case Western Reserve University,Allison,,Webel,2107101,0,zero,TEACHER,PROFESSOR,N/A
+Social Work,186,Case Western Reserve University,Chenobia,,Webster Hill,2351621,2,average,TEACHER,PROFESSOR,3.0
+Electrical Engineering,186,Case Western Reserve University,Lin,,Wei,2475026,0,zero,TEACHER,PROFESSOR,N/A
+Law,186,Case Western Reserve University,Barbara,,Weinzierl,2090158,0,zero,TEACHER,PROFESSOR,N/A
+Political Science,186,Case Western Reserve University,Laura,,Weir,1243386,0,zero,TEACHER,PROFESSOR,N/A
+History,186,Case Western Reserve University,Gillian,,Weiss,126641,20,average,TEACHER,PROFESSOR,2.9
+Biochemistry,186,Case Western Reserve University,Michael,,Weiss,1375205,0,zero,TEACHER,PROFESSOR,N/A
+Social Science,186,Case Western Reserve University,Kathleen,,Wells,137491,0,zero,TEACHER,PROFESSOR,N/A
+Mathematics,186,Case Western Reserve University,Elisabeth,,Werner,17586,17,good,TEACHER,PROFESSOR,4.2
+Chemistry,186,Case Western Reserve University,Richard,,West,1761759,20,good,TEACHER,PROFESSOR,4.8
+English,186,Case Western Reserve University,Anthony,,Wexler,2422015,7,good,TEACHER,PROFESSOR,5.0
+Civil Engineering,186,Case Western Reserve University,Katie,,Wheaton,2078844,5,good,TEACHER,PROFESSOR,3.7
+Political Science,186,Case Western Reserve University,Joseph,,White,701873,11,good,TEACHER,PROFESSOR,3.5
+Physical Education,186,Case Western Reserve University,Jessica,,White,1792740,1,good,TEACHER,PROFESSOR,5.0
+Geology,186,Case Western Reserve University,Peter,,Whiting,17085,5,average,TEACHER,PROFESSOR,2.8
+English,186,Case Western Reserve University,John,,Wiehl,2195292,7,average,TEACHER,PROFESSOR,3.1
+Materials Science,186,Case Western Reserve University,Matthew,,Willard,1922685,3,poor,TEACHER,PROFESSOR,2.0
+History,186,Case Western Reserve University,Rhonda,,Williams,25949,12,average,TEACHER,PROFESSOR,3.2
+Communication Sciences,186,Case Western Reserve University,Stacy,,Williams,854982,0,zero,TEACHER,PROFESSOR,N/A
+Statistics,186,Case Western Reserve University,Patricia,,Williamson,1708236,20,poor,TEACHER,PROFESSOR,2.2
+Biology,186,Case Western Reserve University,Mark,,Willis,110369,8,good,TEACHER,PROFESSOR,4.4
+Biomedical Engineering,186,Case Western Reserve University,Dave,,Wilson,2025941,0,zero,TEACHER,PROFESSOR,N/A
+Psychology,186,Case Western Reserve University,Joshua,,Wilt,2352668,2,good,TEACHER,PROFESSOR,5.0
+Mathematics,186,Case Western Reserve University,Carrie,,Winterer,2175312,1,good,TEACHER,PROFESSOR,4.0
+Macromolecular Science & Eng,186,Case Western Reserve University,Gary,,Wnek,1787842,8,good,TEACHER,PROFESSOR,4.8
+Economics,186,Case Western Reserve University,Jeffery,,Wolcowitz,1538204,1,good,TEACHER,PROFESSOR,4.5
+Mathematics,186,Case Western Reserve University,Pawel,,Wolff,1350188,2,good,TEACHER,PROFESSOR,4.8
+Engineering,186,Case Western Reserve University,Andrew,Edward,Wood,1959714,12,good,TEACHER,PROFESSOR,5.0
+Social Work,186,Case Western Reserve University,Zoe,,Wood,2427563,0,zero,TEACHER,PROFESSOR,N/A
+English,186,Case Western Reserve University,Martha,,Woodmansee,16727,8,average,TEACHER,PROFESSOR,2.8
+Statistics,186,Case Western Reserve University,Wojbor,,Woyczynski,88444,22,good,TEACHER,PROFESSOR,4.0
+Accounting,186,Case Western Reserve University,Yi-Jing,,WU,1574683,10,good,TEACHER,PROFESSOR,3.5
+Operations Management,186,Case Western Reserve University,QI,,WU,1838712,13,good,TEACHER,PROFESSOR,4.4
+Classics,186,Case Western Reserve University,Timothy,,Wutrich,1661745,13,good,TEACHER,PROFESSOR,3.7
+Computer Science,186,Case Western Reserve University,Xusheng,,Xiao,2355255,3,good,TEACHER,PROFESSOR,5.0
+Biomedical Engineering,186,Case Western Reserve University,YU,,Xin,1292961,4,good,TEACHER,PROFESSOR,4.3
+Engineering,186,Case Western Reserve University,Shuai,,Xu,2519044,0,zero,TEACHER,PROFESSOR,N/A
+Modern Languages,186,Case Western Reserve University,Peter,,Yang,321050,17,good,TEACHER,PROFESSOR,4.4
+Computer Science,186,Case Western Reserve University,Jiong,,Yang,541485,4,poor,TEACHER,PROFESSOR,2.2
+Statistics,186,Case Western Reserve University,Shitao,,Yang,2522485,2,good,TEACHER,PROFESSOR,5.0
+Mathematics,186,Case Western Reserve University,Lingxing,,Yao,1851025,32,average,TEACHER,PROFESSOR,2.8
+Mathematics,186,Case Western Reserve University,Deping,,Ye,976182,2,average,TEACHER,PROFESSOR,3.2
+Law,186,Case Western Reserve University,Ruqaiijah,,Yearby,1749824,0,zero,TEACHER,PROFESSOR,N/A
+Biochemistry,186,Case Western Reserve University,Vivien,,Yee,2137988,3,average,TEACHER,PROFESSOR,3.3
+Civil Engineering,186,Case Western Reserve University,Banu,,Yildiz,1713283,2,poor,TEACHER,PROFESSOR,1.8
+Mathematics,186,Case Western Reserve University,Turkay,,Yolcu,1855262,3,average,TEACHER,PROFESSOR,3.3
+Mathematics,186,Case Western Reserve University,Selma,,Yolcu,1867146,3,good,TEACHER,PROFESSOR,3.5
+Information Systems,186,Case Western Reserve University,Youngjin,,Yoo,2468828,0,zero,TEACHER,PROFESSOR,N/A
+Civil Engineering,186,Case Western Reserve University,Xiong,,YU,1199851,4,poor,TEACHER,PROFESSOR,2.4
+Chemistry,186,Case Western Reserve University,Michael,,Zagorski,261917,23,good,TEACHER,PROFESSOR,3.7
+Chemical Engineering,186,Case Western Reserve University,Tom,,Zawodzinski,605354,7,average,TEACHER,PROFESSOR,3.1
+Nursing,186,Case Western Reserve University,Zdxtkldoexs,,Zdxtkldoexs,1594201,1,poor,TEACHER,PROFESSOR,2.0
+Astronomy,186,Case Western Reserve University,Idit,,Zehavi,1458956,2,good,TEACHER,PROFESSOR,4.0
+Civil Engineering,186,Case Western Reserve University,Xiangwu (David),,Zeng,29226,33,good,TEACHER,PROFESSOR,3.8
+Computer Science,186,Case Western Reserve University,Guo-Qiang,,Zhang,17578,29,good,TEACHER,PROFESSOR,3.6
+Electrical Engineering,186,Case Western Reserve University,Xinmiao,,Zhang,788735,9,poor,TEACHER,PROFESSOR,1.6
+Nursing,186,Case Western Reserve University,Amy,,Zhang,1576151,6,average,TEACHER,PROFESSOR,3.0
+Computer Science,186,Case Western Reserve University,Xiang,,Zhang,1869517,5,average,TEACHER,PROFESSOR,2.8
+Electrical Engineering,186,Case Western Reserve University,Hongping,,Zhao,2013006,3,average,TEACHER,PROFESSOR,2.8
+Mathematics,186,Case Western Reserve University,Longhua,,Zhao,2129044,8,good,TEACHER,PROFESSOR,4.0
+Macromolecular Science & Eng,186,Case Western Reserve University,Lei,,Zhu,1868886,0,zero,TEACHER,PROFESSOR,N/A
+Biomedical Engineering,186,Case Western Reserve University,Nicholas,,Ziats,1509393,5,good,TEACHER,PROFESSOR,4.7
+Modern Languages,186,Case Western Reserve University,Tatiana,,Zilotina,324108,7,good,TEACHER,PROFESSOR,4.0
+Accounting,186,Case Western Reserve University,Aleksandra,,Zimmerman,1917324,2,good,TEACHER,PROFESSOR,4.0
+Nursing,186,Case Western Reserve University,Elizabeth,,Zimmerman,2200523,2,average,TEACHER,PROFESSOR,3.0
+Electrical Engineering,186,Case Western Reserve University,Christian,,Zorman,324314,31,good,TEACHER,PROFESSOR,3.8
+General Education,186,Case Western Reserve University,James,,Zull,1367527,7,average,TEACHER,PROFESSOR,3.5
+History,186,Case Western Reserve University,Geoffrey,,Zylstra,962654,2,good,TEACHER,PROFESSOR,5.0
